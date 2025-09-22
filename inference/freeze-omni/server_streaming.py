@@ -530,7 +530,7 @@ def simulate_stream():
 
 @app.route('/')
 def index():
-    return render_template('demo.html')
+    return render_template('demo_stream.html')
 
 @socketio.on('connect')
 def handle_connect():
