@@ -26,8 +26,7 @@ SETTLE_TIME_SECONDS = 5.0
 MODEL = "models/gemini-2.5-flash-live-preview"
 client = genai.Client(
     http_options={"api_version": "v1beta"},
-    api_key="AIzaSyCXQH0yVlXmmGm76VDHblHzu07rG8J40o0"
-    # api_key="YOUR_API_KEY"
+    api_key="YOUR_API_KEY"
 )
 
 CONFIG = types.LiveConnectConfig(
@@ -221,4 +220,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\nUser interrupted program.")
     finally:
+
         pya.terminate()
