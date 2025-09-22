@@ -1,6 +1,6 @@
 # VITA 1.5
 
-Project address: [Freeze-Omni Repository](https://github.com/VITA-MLLM/VITA) 
+Project address: [VITA 1.5 Repository](https://github.com/VITA-MLLM/VITA) 
 
 ---
 
@@ -35,5 +35,6 @@ Open another terminal and run:
 ```
 bash realtime_inference.sh
 ```
+
 
 This script will feed audio input into the system and generate real-time outputs.
