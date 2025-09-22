@@ -15,7 +15,7 @@ def get_time_aligned_transcription(data_path):
     audio_paths = sorted(glob(f"{data_path}/*/{MODEL_NAME}output.wav"))
 
     # Load the pretrained NeMo ASR model and move to GPU
-    local_model_path = "./model/parakeet-tdt-0.6b-v2.nemo"
+    local_model_path = "your/asr/model/path/parakeet-tdt-0.6b-v2.nemo"
     asr_model = nemo_asr.models.ASRModel.restore_from(local_model_path).cuda()
 
     for audio_path in tqdm(audio_paths):
