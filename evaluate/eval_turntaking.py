@@ -92,7 +92,7 @@ def eval_smooth_turn_taking(data_dir):
 
     print("---------------------------------------------------")
     print("[Result]")
-    print("  -TOR: ", average_take_turn)
+    print("\n  -TOR: ", average_take_turn)
     print("\n  -Latency: ", average_latency)
     print("\n  -JIR: ", negative_latency_count/ len(take_turn_list))
     print("---------------------------------------------------")
