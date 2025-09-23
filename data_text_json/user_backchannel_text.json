@@ -1,0 +1,2002 @@
+[
+    {
+        "dialog_1": {
+            "text": "Can you explain the main stages of the water cycle for me?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.049598697428078,
+                8.16
+            ]
+        }
+    },
+    {
+        "dialog_2": {
+            "text": "What's the best way to start learning a new programming language?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.884876297057781,
+                9.777976652811375
+            ]
+        }
+    },
+    {
+        "dialog_3": {
+            "text": "Please give me a detailed overview of how blockchain technology works.",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                10.60131638137794,
+                11.494416737131534
+            ]
+        }
+    },
+    {
+        "dialog_4": {
+            "text": "How do I make a classic Italian carbonara?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.7405967533581475,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_5": {
+            "text": "Could you explain the concept of compound interest?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.752903507942136,
+                8.0
+            ]
+        }
+    },
+    {
+        "dialog_6": {
+            "text": "What were the main causes of World War I?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.877835554981479,
+                7.04
+            ]
+        }
+    },
+    {
+        "dialog_7": {
+            "text": "How can I improve my sleep quality?",
+            "Pause1": "Makes sense.",
+            "pause_timestamp": [
+                7.465595466701673,
+                8.358695822455267
+            ]
+        }
+    },
+    {
+        "dialog_8": {
+            "text": "Explain the process of photosynthesis to me like I'm a beginner.",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                11.64307671743952,
+                12.536177073193114
+            ]
+        }
+    },
+    {
+        "dialog_9": {
+            "text": "What are the key differences between stocks and bonds?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                8.077620196114488,
+                8.8
+            ]
+        }
+    },
+    {
+        "dialog_10": {
+            "text": "How do I properly brew coffee using a French press?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.455987549373412,
+                8.349087905127007
+            ]
+        }
+    },
+    {
+        "dialog_11": {
+            "text": "Can you walk me through the basics of how a car engine works?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                8.699780426827534,
+                10.24
+            ]
+        }
+    },
+    {
+        "dialog_12": {
+            "text": "What is the theory of relativity in simple terms?",
+            "Pause1": "Interesting.",
+            "pause_timestamp": [
+                8.538289969280779,
+                10.48
+            ]
+        }
+    },
+    {
+        "dialog_13": {
+            "text": "How can I start a container garden on my balcony?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.5282508490590345,
+                7.68
+            ]
+        }
+    },
+    {
+        "dialog_14": {
+            "text": "Explain the role of the Federal Reserve in the U.S. economy.",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                9.155878808727614,
+                10.64
+            ]
+        }
+    },
+    {
+        "dialog_15": {
+            "text": "What's a simple way to start meditating?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                5.53748897628246,
+                5.68
+            ]
+        }
+    },
+    {
+        "dialog_16": {
+            "text": "Could you describe the structure of the Earth's atmosphere?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                7.545455419007475,
+                8.56
+            ]
+        }
+    },
+    {
+        "dialog_17": {
+            "text": "What are the fundamental principles of graphic design?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                6.5295362352535875,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_18": {
+            "text": "How do vaccines work to protect us from diseases?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.327049536518329,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_19": {
+            "text": "What's the difference between a JPEG and a PNG file?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                8.30224497863893,
+                9.195345334392524
+            ]
+        }
+    },
+    {
+        "dialog_20": {
+            "text": "Can you explain the basic plot of Shakespeare's Hamlet?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.701114253357899,
+                9.594214609111493
+            ]
+        }
+    },
+    {
+        "dialog_21": {
+            "text": "What's a good way to structure a workout routine for a beginner?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                10.345883101269388,
+                11.238983457022982
+            ]
+        }
+    },
+    {
+        "dialog_22": {
+            "text": "How does a 3D printer build an object?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.161936454009066,
+                7.36
+            ]
+        }
+    },
+    {
+        "dialog_23": {
+            "text": "Please explain the concept of supply and demand.",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.463484880704826,
+                8.35658523645842
+            ]
+        }
+    },
+    {
+        "dialog_24": {
+            "text": "What's the best way to care for a cast iron skillet?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                7.3812577615433845,
+                8.88
+            ]
+        }
+    },
+    {
+        "dialog_25": {
+            "text": "Tell me about the history of the internet, in brief.",
+            "Pause1": "Interesting.",
+            "pause_timestamp": [
+                7.002728667950541,
+                8.8
+            ]
+        }
+    },
+    {
+        "dialog_26": {
+            "text": "How does natural selection lead to evolution?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                9.603241824139818,
+                10.48
+            ]
+        }
+    },
+    {
+        "dialog_27": {
+            "text": "What are some tips for effective public speaking?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.726341854474683,
+                8.64
+            ]
+        }
+    },
+    {
+        "dialog_28": {
+            "text": "Can you explain what a 'VPN' is and why I might need one?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                9.545504506525727,
+                9.68
+            ]
+        }
+    },
+    {
+        "dialog_29": {
+            "text": "What's the process for making sourdough bread from a starter?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.544422923523072,
+                9.437523279276666
+            ]
+        }
+    },
+    {
+        "dialog_30": {
+            "text": "Briefly describe the significance of the Rosetta Stone.",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                8.818119244399362,
+                9.52
+            ]
+        }
+    },
+    {
+        "dialog_31": {
+            "text": "How do I choose the right running shoes?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.284197976368674,
+                7.84
+            ]
+        }
+    },
+    {
+        "dialog_32": {
+            "text": "What is machine learning in simple terms?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                7.246237110271204,
+                8.139337466024799
+            ]
+        }
+    },
+    {
+        "dialog_33": {
+            "text": "Can you explain how solar panels generate electricity?",
+            "Pause1": "Interesting.",
+            "pause_timestamp": [
+                8.574237345164162,
+                9.467337700917756
+            ]
+        }
+    },
+    {
+        "dialog_34": {
+            "text": "What are the main principles of the Agile software development methodology?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                10.066987533257814,
+                10.960087889011408
+            ]
+        }
+    },
+    {
+        "dialog_35": {
+            "text": "How do you make a good vinaigrette dressing from scratch?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                9.104276363838602,
+                10.08
+            ]
+        }
+    },
+    {
+        "dialog_36": {
+            "text": "Tell me about the Roman Empire's rise to power.",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.3342423049034355,
+                8.22734266065703
+            ]
+        }
+    },
+    {
+        "dialog_37": {
+            "text": "What is the difference between weather and climate?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.198444582204415,
+                8.24
+            ]
+        }
+    },
+    {
+        "dialog_38": {
+            "text": "How do I start a compost bin in my backyard?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.968857498954494,
+                8.24
+            ]
+        }
+    },
+    {
+        "dialog_39": {
+            "text": "Can you explain what an API is in a simple way?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.307706641498184,
+                9.200806997251778
+            ]
+        }
+    },
+    {
+        "dialog_40": {
+            "text": "What are the core components of a healthy diet?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.71246033861017,
+                9.605560694363763
+            ]
+        }
+    },
+    {
+        "dialog_41": {
+            "text": "How do credit scores work and why are they important?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                7.457919625054145,
+                8.351019980807738
+            ]
+        }
+    },
+    {
+        "dialog_42": {
+            "text": "Can you explain the basic rules of chess?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.870605349528599,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_43": {
+            "text": "What was the Renaissance and why was it significant?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                9.188433244190254,
+                10.081533599943848
+            ]
+        }
+    },
+    {
+        "dialog_44": {
+            "text": "How can I back up my computer files effectively?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                7.59584605988946,
+                8.488946415643055
+            ]
+        }
+    },
+    {
+        "dialog_45": {
+            "text": "Tell me about black holes in a way I can understand.",
+            "Pause1": "Wow, okay.",
+            "pause_timestamp": [
+                8.174765032870113,
+                9.120000000000001
+            ]
+        }
+    },
+    {
+        "dialog_46": {
+            "text": "What's the best way to learn a musical instrI seeent as an adult?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                9.690030539847395,
+                10.58313089560099
+            ]
+        }
+    },
+    {
+        "dialog_47": {
+            "text": "How does the Supreme Court in the US make decisions?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.632530248939449,
+                8.525630604693042
+            ]
+        }
+    },
+    {
+        "dialog_48": {
+            "text": "What is the ketogenic diet and how does it work?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                7.066765091547596,
+                7.92
+            ]
+        }
+    },
+    {
+        "dialog_49": {
+            "text": "Can you explain how a microwave oven heats food?",
+            "Pause1": "Interesting.",
+            "pause_timestamp": [
+                8.31145228176928,
+                10.0
+            ]
+        }
+    },
+    {
+        "dialog_50": {
+            "text": "What was the significance of the Silk Road in history?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.053299585563028,
+                9.36
+            ]
+        }
+    },
+    {
+        "dialog_51": {
+            "text": "How do I take a good photograph with my smartphone?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.093620097348536,
+                7.28
+            ]
+        }
+    },
+    {
+        "dialog_52": {
+            "text": "Explain the concept of 'mindfulness'.",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                8.812378715358255,
+                10.24
+            ]
+        }
+    },
+    {
+        "dialog_53": {
+            "text": "What's the difference between a traditional IRA and a Roth IRA?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                10.679430488899282,
+                11.572530844652876
+            ]
+        }
+    },
+    {
+        "dialog_54": {
+            "text": "Can you sI seemarize the plot of the novel '1984'?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.696748395834868,
+                9.589848751588463
+            ]
+        }
+    },
+    {
+        "dialog_55": {
+            "text": "How does fermentation work in food preservation?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.408573262363042,
+                9.301673618116636
+            ]
+        }
+    },
+    {
+        "dialog_56": {
+            "text": "What is the scientific method and what are its steps?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.819485466456754,
+                8.712585822210348
+            ]
+        }
+    },
+    {
+        "dialog_57": {
+            "text": "How can I make my home more energy-efficient?",
+            "Pause1": "Makes sense.",
+            "pause_timestamp": [
+                7.836386648831154,
+                9.44
+            ]
+        }
+    },
+    {
+        "dialog_58": {
+            "text": "Explain the basics of plate tectonics.",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.418480232009937,
+                9.120000000000001
+            ]
+        }
+    },
+    {
+        "dialog_59": {
+            "text": "What's the best way to organize my digital files?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.046692484650416,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_60": {
+            "text": "Tell me about the different types of clouds.",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.913541100580655,
+                7.76
+            ]
+        }
+    },
+    {
+        "dialog_61": {
+            "text": "How do noise-cancelling headphones work?",
+            "Pause1": "Interesting.",
+            "pause_timestamp": [
+                6.834587115695745,
+                7.7276874714493395
+            ]
+        }
+    },
+    {
+        "dialog_62": {
+            "text": "What are the main events of the American Revolution?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.164373766478542,
+                8.72
+            ]
+        }
+    },
+    {
+        "dialog_63": {
+            "text": "What's the difference between UI and UX design?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.019322391617019,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_64": {
+            "text": "How can I build a good credit history from scratch?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.230974498821723,
+                8.56
+            ]
+        }
+    },
+    {
+        "dialog_65": {
+            "text": "Can you explain the importance of gut health?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                7.161936454009066,
+                8.48
+            ]
+        }
+    },
+    {
+        "dialog_66": {
+            "text": "What's the process for making cheese?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                5.841193071487682,
+                6.734293427241276
+            ]
+        }
+    },
+    {
+        "dialog_67": {
+            "text": "Explain the concept of 'net neutrality'.",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.631546689793469,
+                8.72
+            ]
+        }
+    },
+    {
+        "dialog_68": {
+            "text": "How does GPS work to determine my location?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                8.311282194126523,
+                8.88
+            ]
+        }
+    },
+    {
+        "dialog_69": {
+            "text": "What are the main literary themes in 'To Kill a Mockingbird'?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.321504478671308,
+                9.214604834424902
+            ]
+        }
+    },
+    {
+        "dialog_70": {
+            "text": "What's a good way to start investing with a small amount of money?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                6.887436182116711,
+                8.64
+            ]
+        }
+    },
+    {
+        "dialog_71": {
+            "text": "How do you tie a bowline knot?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                5.291461843176037,
+                5.44
+            ]
+        }
+    },
+    {
+        "dialog_72": {
+            "text": "Explain the basics of hI seean DNA.",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.559305916698657,
+                7.452406272452251
+            ]
+        }
+    },
+    {
+        "dialog_73": {
+            "text": "What are some strategies for overcoming procrastination?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                8.397670831503175,
+                9.68
+            ]
+        }
+    },
+    {
+        "dialog_74": {
+            "text": "What was the Industrial Revolution?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                6.254831894619565,
+                7.1479322503731595
+            ]
+        }
+    },
+    {
+        "dialog_75": {
+            "text": "How does a hydroelectric dam generate power?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                8.86965267003318,
+                10.32
+            ]
+        }
+    },
+    {
+        "dialog_76": {
+            "text": "What are the five basic tastes?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                5.726876293779627,
+                7.28
+            ]
+        }
+    },
+    {
+        "dialog_77": {
+            "text": "Can you explain what 'inflation' means for the economy?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.079432300330295,
+                8.972532656083889
+            ]
+        }
+    },
+    {
+        "dialog_78": {
+            "text": "What are the rules of evidence in a courtroom?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.538317154698342,
+                8.431417510451936
+            ]
+        }
+    },
+    {
+        "dialog_79": {
+            "text": "How do I choose a ripe avocado?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.881312683039166,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_80": {
+            "text": "Tell me about the basics of colour theory.",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.099266824400742,
+                7.992367180154337
+            ]
+        }
+    },
+    {
+        "dialog_81": {
+            "text": "What's the difference between a hurricane, a typhoon, and a cyclone?",
+            "Pause1": "Interesting.",
+            "pause_timestamp": [
+                9.026650313656155,
+                9.91975066940975
+            ]
+        }
+    },
+    {
+        "dialog_82": {
+            "text": "How can I improve my posture while working at a desk?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                7.4128394548332714,
+                7.5200000000000005
+            ]
+        }
+    },
+    {
+        "dialog_83": {
+            "text": "What are the main duties of the United Nations?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.889722193600557,
+                8.4
+            ]
+        }
+    },
+    {
+        "dialog_84": {
+            "text": "How do you sharpen a kitchen knife properly?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.8205877337692655,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_85": {
+            "text": "Explain the basics of quantI see computing.",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                7.456301534681681,
+                8.64
+            ]
+        }
+    },
+    {
+        "dialog_86": {
+            "text": "What is the function of the hI seean heart?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                7.458155186525673,
+                7.84
+            ]
+        }
+    },
+    {
+        "dialog_87": {
+            "text": "How do you perform CPR?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.889104960759768,
+                7.04
+            ]
+        }
+    },
+    {
+        "dialog_88": {
+            "text": "What was the significance of the fall of the Berlin Wall?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.332068887241682,
+                9.225169242995277
+            ]
+        }
+    },
+    {
+        "dialog_89": {
+            "text": "How does a router work to create a Wi-Fi network?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                8.339207679773512,
+                9.76
+            ]
+        }
+    },
+    {
+        "dialog_90": {
+            "text": "What is the job of a screenplay writer?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.789417500500694,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_91": {
+            "text": "How do you write a basic 'for loop' in Python?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                9.06919380805429,
+                10.0
+            ]
+        }
+    },
+    {
+        "dialog_92": {
+            "text": "What is 'fiscal policy' and who controls it?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                8.607950044701052,
+                9.200000000000001
+            ]
+        }
+    },
+    {
+        "dialog_93": {
+            "text": "How do you say 'hello' and 'thank you' in Japanese?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                9.290209549085688,
+                9.52
+            ]
+        }
+    },
+    {
+        "dialog_94": {
+            "text": "What is the difference between a planet and a star?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                6.330776846163928,
+                7.223877201917523
+            ]
+        }
+    },
+    {
+        "dialog_95": {
+            "text": "How should I prepare for a job interview?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.593175885781409,
+                6.72
+            ]
+        }
+    },
+    {
+        "dialog_96": {
+            "text": "Can you explain the three branches of the US government?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                7.758431270772418,
+                8.16
+            ]
+        }
+    },
+    {
+        "dialog_97": {
+            "text": "What are probiotics and where can I find them?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                8.147983530983035,
+                9.04108388673663
+            ]
+        }
+    },
+    {
+        "dialog_98": {
+            "text": "How does a bill become a law in the United States?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                8.144771875582242,
+                9.037872231335836
+            ]
+        }
+    },
+    {
+        "dialog_99": {
+            "text": "What is geothermal energy?",
+            "Pause1": "Interesting.",
+            "pause_timestamp": [
+                5.567074093570447,
+                7.04
+            ]
+        }
+    },
+    {
+        "dialog_100": {
+            "text": "What are some common logical fallacies I should be aware of?",
+            "Pause1": "Right.",
+            "pause_timestamp": [
+                10.49410742834986,
+                11.387207784103454
+            ]
+        }
+    },
+    {
+        "dialog_101": {
+            "text": "Can you explain how photosynthesis works in detail?",
+            "Pause1": "Right!",
+            "pause_timestamp": [
+                6.656401418516513,
+                7.44
+            ]
+        }
+    },
+    {
+        "dialog_102": {
+            "text": "What are the key stages of cellular respiration?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.421724544643245,
+                7.04
+            ]
+        }
+    },
+    {
+        "dialog_103": {
+            "text": "How do black holes form and evolve?",
+            "Pause1": "Hmm.",
+            "pause_timestamp": [
+                5.924332079370707,
+                6.4
+            ]
+        }
+    },
+    {
+        "dialog_104": {
+            "text": "Could you walk me through the process of DNA replication?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.812534242211877,
+                7.2
+            ]
+        }
+    },
+    {
+        "dialog_105": {
+            "text": "What makes quantum computing fundamentally different from classical computing?",
+            "Pause1": "Oh, got it.",
+            "pause_timestamp": [
+                8.338844685910408,
+                9.52
+            ]
+        }
+    },
+    {
+        "dialog_106": {
+            "text": "Why are bees critical to maintaining biodiversity?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                6.653521923426174,
+                7.36
+            ]
+        }
+    },
+    {
+        "dialog_107": {
+            "text": "How does blockchain technology ensure secure transactions?",
+            "Pause1": "Interesting!",
+            "pause_timestamp": [
+                7.09287669939917,
+                8.32
+            ]
+        }
+    },
+    {
+        "dialog_108": {
+            "text": "What causes seasons to change on Earth?",
+            "Pause1": "That makes sense.",
+            "pause_timestamp": [
+                5.66810122118042,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_109": {
+            "text": "Can you describe the water cycle step by step?",
+            "Pause1": "Sure thing!",
+            "pause_timestamp": [
+                6.094162085593723,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_110": {
+            "text": "How do vaccines train the immune system to fight diseases?",
+            "Pause1": "Makes sense.",
+            "pause_timestamp": [
+                7.257347019455256,
+                8.32
+            ]
+        }
+    },
+    {
+        "dialog_111": {
+            "text": "What role do mitochondria play in a cell?",
+            "Pause1": "Yes, exactly.",
+            "pause_timestamp": [
+                6.352685822357823,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_112": {
+            "text": "Why is the Higgs boson particle significant in physics?",
+            "Pause1": "Oh, right.",
+            "pause_timestamp": [
+                6.94103590111299,
+                7.92
+            ]
+        }
+    },
+    {
+        "dialog_113": {
+            "text": "How do renewable energy sources reduce carbon emissions?",
+            "Pause1": "Of course!",
+            "pause_timestamp": [
+                6.959191252984555,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_114": {
+            "text": "Could you explain the theory of evolution by natural selection?",
+            "Pause1": "No way!",
+            "pause_timestamp": [
+                7.116818044950874,
+                7.92
+            ]
+        }
+    },
+    {
+        "dialog_115": {
+            "text": "What happens during a supernova explosion?",
+            "Pause1": "Really?",
+            "pause_timestamp": [
+                6.1498651003938205,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_116": {
+            "text": "How does machine learning differ from artificial intelligence?",
+            "Pause1": "Oh, interesting!",
+            "pause_timestamp": [
+                6.588959881130579,
+                8.0
+            ]
+        }
+    },
+    {
+        "dialog_117": {
+            "text": "Why is coral reef conservation important for marine ecosystems?",
+            "Pause1": "Ah, okay.",
+            "pause_timestamp": [
+                7.529339385980489,
+                8.56
+            ]
+        }
+    },
+    {
+        "dialog_118": {
+            "text": "Can you detail the structure of an atom?",
+            "Pause1": "Right on!",
+            "pause_timestamp": [
+                5.926045071321596,
+                6.8
+            ]
+        }
+    },
+    {
+        "dialog_119": {
+            "text": "How do antidepressants affect brain chemistry?",
+            "Pause1": "Cool!",
+            "pause_timestamp": [
+                6.066471793088769,
+                6.640000000000001
+            ]
+        }
+    },
+    {
+        "dialog_120": {
+            "text": "What causes tectonic plates to move?",
+            "Pause1": "I understand.",
+            "pause_timestamp": [
+                6.043761063266891,
+                6.88
+            ]
+        }
+    },
+    {
+        "dialog_121": {
+            "text": "Could you describe how a car engine converts fuel into motion?",
+            "Pause1": "Right!",
+            "pause_timestamp": [
+                6.848395815530335,
+                7.28
+            ]
+        }
+    },
+    {
+        "dialog_122": {
+            "text": "Why do astronauts experience weightlessness in space?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.924487665958961,
+                7.5200000000000005
+            ]
+        }
+    },
+    {
+        "dialog_123": {
+            "text": "How does photosynthesis differ between plants and algae?",
+            "Pause1": "Hmm.",
+            "pause_timestamp": [
+                6.9557174138224935,
+                7.848817769576088
+            ]
+        }
+    },
+    {
+        "dialog_124": {
+            "text": "What are the main challenges in developing fusion energy?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.718244534653734,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_125": {
+            "text": "Can you explain why antibiotics don't work on viruses?",
+            "Pause1": "Oh, got it.",
+            "pause_timestamp": [
+                6.874717587891729,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_126": {
+            "text": "How does ocean acidification impact marine life?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                6.614708532722686,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_127": {
+            "text": "What makes graphene such a revolutionary material?",
+            "Pause1": "Interesting!",
+            "pause_timestamp": [
+                6.543376067130573,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_128": {
+            "text": "Could you walk me through the steps of protein synthesis?",
+            "Pause1": "That makes sense.",
+            "pause_timestamp": [
+                6.4929270038596405,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_129": {
+            "text": "How does a microwave oven heat food using electromagnetic waves?",
+            "Pause1": "Sure thing!",
+            "pause_timestamp": [
+                7.705774403933195,
+                8.72
+            ]
+        }
+    },
+    {
+        "dialog_130": {
+            "text": "Why do vaccines require booster shots?",
+            "Pause1": "Makes sense.",
+            "pause_timestamp": [
+                6.567780920024566,
+                7.68
+            ]
+        }
+    },
+    {
+        "dialog_131": {
+            "text": "What causes a rainbow to form after rain?",
+            "Pause1": "Yes, exactly.",
+            "pause_timestamp": [
+                6.181525891205949,
+                7.68
+            ]
+        }
+    },
+    {
+        "dialog_132": {
+            "text": "How does cloud computing actually work?",
+            "Pause1": "Oh, right.",
+            "pause_timestamp": [
+                6.322723752161236,
+                6.88
+            ]
+        }
+    },
+    {
+        "dialog_133": {
+            "text": "Can you explain why some materials are magnetic while others aren't?",
+            "Pause1": "Of course!",
+            "pause_timestamp": [
+                7.161936454009066,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_134": {
+            "text": "What happens during a chemical reaction at the molecular level?",
+            "Pause1": "No way!",
+            "pause_timestamp": [
+                6.890050091154014,
+                7.76
+            ]
+        }
+    },
+    {
+        "dialog_135": {
+            "text": "How do wind turbines generate electricity?",
+            "Pause1": "Really?",
+            "pause_timestamp": [
+                6.101096315406001,
+                6.8
+            ]
+        }
+    },
+    {
+        "dialog_136": {
+            "text": "Why is biodiversity crucial for ecosystem stability?",
+            "Pause1": "Oh, interesting!",
+            "pause_timestamp": [
+                7.032958441815493,
+                8.4
+            ]
+        }
+    },
+    {
+        "dialog_137": {
+            "text": "Could you describe the process of bone healing after a fracture?",
+            "Pause1": "Ah, okay.",
+            "pause_timestamp": [
+                7.0044735525916115,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_138": {
+            "text": "How does solar energy get converted into electricity?",
+            "Pause1": "Right on!",
+            "pause_timestamp": [
+                6.692781921733859,
+                7.5200000000000005
+            ]
+        }
+    },
+    {
+        "dialog_139": {
+            "text": "What makes certain species invasive and harmful to ecosystems?",
+            "Pause1": "Cool!",
+            "pause_timestamp": [
+                7.64405815067043,
+                8.16
+            ]
+        }
+    },
+    {
+        "dialog_140": {
+            "text": "Can you explain the greenhouse effect and its impact on climate?",
+            "Pause1": "I understand.",
+            "pause_timestamp": [
+                7.1860745878010714,
+                8.0
+            ]
+        }
+    },
+    {
+        "dialog_141": {
+            "text": "How do antibiotics develop resistance over time?",
+            "Pause1": "Right!",
+            "pause_timestamp": [
+                6.4144054156969705,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_142": {
+            "text": "Why do different elements have such varied properties?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                6.410810628974707,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_143": {
+            "text": "Could you describe how a computer's CPU processes instructions?",
+            "Pause1": "Hmm.",
+            "pause_timestamp": [
+                7.7610634394435865,
+                8.654163795197181
+            ]
+        }
+    },
+    {
+        "dialog_144": {
+            "text": "What causes lightning during thunderstorms?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                5.713594756678136,
+                6.08
+            ]
+        }
+    },
+    {
+        "dialog_145": {
+            "text": "How does the human ear perceive different sound frequencies?",
+            "Pause1": "Oh, got it.",
+            "pause_timestamp": [
+                6.6847859110660295,
+                8.24
+            ]
+        }
+    },
+    {
+        "dialog_146": {
+            "text": "Why is the ozone layer important for life on Earth?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                6.718173399891024,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_147": {
+            "text": "Can you explain how vaccines are developed and tested?",
+            "Pause1": "Interesting!",
+            "pause_timestamp": [
+                6.72150206609249,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_148": {
+            "text": "How do GPS satellites determine precise locations?",
+            "Pause1": "That makes sense.",
+            "pause_timestamp": [
+                7.07208745040726,
+                8.56
+            ]
+        }
+    },
+    {
+        "dialog_149": {
+            "text": "What happens during nuclear fission reactions?",
+            "Pause1": "Sure thing!",
+            "pause_timestamp": [
+                5.66635087792181,
+                6.48
+            ]
+        }
+    },
+    {
+        "dialog_150": {
+            "text": "Could you describe the process of plant pollination?",
+            "Pause1": "Makes sense.",
+            "pause_timestamp": [
+                6.437822392890174,
+                7.44
+            ]
+        }
+    },
+    {
+        "dialog_151": {
+            "text": "How does a refrigerator keep food cold?",
+            "Pause1": "Yes, exactly.",
+            "pause_timestamp": [
+                6.105082771353052,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_152": {
+            "text": "Why do some animals hibernate during winter?",
+            "Pause1": "Oh, right.",
+            "pause_timestamp": [
+                6.030585502725987,
+                6.88
+            ]
+        }
+    },
+    {
+        "dialog_153": {
+            "text": "Can you explain how sound travels through different mediums?",
+            "Pause1": "Of course!",
+            "pause_timestamp": [
+                6.2522304403337134,
+                7.04
+            ]
+        }
+    },
+    {
+        "dialog_154": {
+            "text": "How do vaccines provide herd immunity?",
+            "Pause1": "No way!",
+            "pause_timestamp": [
+                6.07165727088983,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_155": {
+            "text": "What causes earthquakes along fault lines?",
+            "Pause1": "Really?",
+            "pause_timestamp": [
+                5.94195300758753,
+                6.4
+            ]
+        }
+    },
+    {
+        "dialog_156": {
+            "text": "Could you describe how a smartphone touchscreen works?",
+            "Pause1": "Oh, interesting!",
+            "pause_timestamp": [
+                6.500602724577882,
+                7.68
+            ]
+        }
+    },
+    {
+        "dialog_157": {
+            "text": "How does the human brain store and retrieve memories?",
+            "Pause1": "Ah, okay.",
+            "pause_timestamp": [
+                6.2287214445327255,
+                7.44
+            ]
+        }
+    },
+    {
+        "dialog_158": {
+            "text": "What makes superconductors different from regular conductors?",
+            "Pause1": "Right on!",
+            "pause_timestamp": [
+                7.104254419202161,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_159": {
+            "text": "How do vaccines trigger immune responses without causing disease?",
+            "Pause1": "Cool!",
+            "pause_timestamp": [
+                7.604797068539476,
+                8.4
+            ]
+        }
+    },
+    {
+        "dialog_160": {
+            "text": "Why do stars appear to twinkle in the night sky?",
+            "Pause1": "I understand.",
+            "pause_timestamp": [
+                6.361439930446903,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_161": {
+            "text": "Can you explain how erosion shapes landscapes over time?",
+            "Pause1": "Right!",
+            "pause_timestamp": [
+                7.027269661446793,
+                7.76
+            ]
+        }
+    },
+    {
+        "dialog_162": {
+            "text": "How does a bicycle's gear system work?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                5.703368592906438,
+                6.640000000000001
+            ]
+        }
+    },
+    {
+        "dialog_163": {
+            "text": "What happens during the process of digestion in humans?",
+            "Pause1": "Hmm.",
+            "pause_timestamp": [
+                6.914142764494586,
+                7.80724312024818
+            ]
+        }
+    },
+    {
+        "dialog_164": {
+            "text": "Could you describe how viruses infect cells?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.400461232089975,
+                6.640000000000001
+            ]
+        }
+    },
+    {
+        "dialog_165": {
+            "text": "How does a camera capture images using light?",
+            "Pause1": "Oh, got it.",
+            "pause_timestamp": [
+                6.563712897303757,
+                7.84
+            ]
+        }
+    },
+    {
+        "dialog_166": {
+            "text": "Why do some materials conduct electricity better than others?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                6.899247420433678,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_167": {
+            "text": "Can you explain the concept of dark matter in the universe?",
+            "Pause1": "Interesting!",
+            "pause_timestamp": [
+                6.613319170455113,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_168": {
+            "text": "How does a wind turbine convert kinetic energy into electricity?",
+            "Pause1": "That makes sense.",
+            "pause_timestamp": [
+                7.292560053881543,
+                8.88
+            ]
+        }
+    },
+    {
+        "dialog_169": {
+            "text": "What causes the phases of the Moon?",
+            "Pause1": "Sure thing!",
+            "pause_timestamp": [
+                5.553976118078687,
+                6.4
+            ]
+        }
+    },
+    {
+        "dialog_170": {
+            "text": "Could you describe how plants absorb water through their roots?",
+            "Pause1": "Makes sense.",
+            "pause_timestamp": [
+                6.442686433994856,
+                7.5200000000000005
+            ]
+        }
+    },
+    {
+        "dialog_171": {
+            "text": "How does a microwave oven heat food unevenly sometimes?",
+            "Pause1": "Yes, exactly.",
+            "pause_timestamp": [
+                6.938016106858798,
+                8.72
+            ]
+        }
+    },
+    {
+        "dialog_172": {
+            "text": "Why do birds migrate across such long distances?",
+            "Pause1": "Oh, right.",
+            "pause_timestamp": [
+                6.587853526921745,
+                7.5200000000000005
+            ]
+        }
+    },
+    {
+        "dialog_173": {
+            "text": "Can you explain how the internet routes data across the globe?",
+            "Pause1": "Of course!",
+            "pause_timestamp": [
+                7.1473085728468,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_174": {
+            "text": "How does a refrigerator's cooling system work?",
+            "Pause1": "No way!",
+            "pause_timestamp": [
+                6.2637432049458015,
+                7.28
+            ]
+        }
+    },
+    {
+        "dialog_175": {
+            "text": "What happens during a volcanic eruption?",
+            "Pause1": "Really?",
+            "pause_timestamp": [
+                5.702279177399763,
+                6.32
+            ]
+        }
+    },
+    {
+        "dialog_176": {
+            "text": "Could you describe how the human heart pumps blood?",
+            "Pause1": "Oh, interesting!",
+            "pause_timestamp": [
+                5.736346440592017,
+                7.28
+            ]
+        }
+    },
+    {
+        "dialog_177": {
+            "text": "How do plants defend themselves against herbivores?",
+            "Pause1": "Ah, okay.",
+            "pause_timestamp": [
+                6.465016622927526,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_178": {
+            "text": "Why do different planets have varying gravitational strengths?",
+            "Pause1": "Right on!",
+            "pause_timestamp": [
+                7.070882116718799,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_179": {
+            "text": "Can you explain how vaccines are stored to maintain effectiveness?",
+            "Pause1": "Cool!",
+            "pause_timestamp": [
+                7.321196643135186,
+                8.0
+            ]
+        }
+    },
+    {
+        "dialog_180": {
+            "text": "How does a bicycle's braking system stop the wheel?",
+            "Pause1": "I understand.",
+            "pause_timestamp": [
+                6.5679534487151345,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_181": {
+            "text": "What causes ocean tides on Earth?",
+            "Pause1": "Right!",
+            "pause_timestamp": [
+                5.997428667943712,
+                6.640000000000001
+            ]
+        }
+    },
+    {
+        "dialog_182": {
+            "text": "Could you describe how a plant's roots absorb nutrients?",
+            "Pause1": "I see.",
+            "pause_timestamp": [
+                7.016225735085008,
+                7.92
+            ]
+        }
+    },
+    {
+        "dialog_183": {
+            "text": "How does a camera lens focus light onto the sensor?",
+            "Pause1": "Hmm.",
+            "pause_timestamp": [
+                6.704950559708536,
+                7.59805091546213
+            ]
+        }
+    },
+    {
+        "dialog_184": {
+            "text": "Why do some materials expand when heated?",
+            "Pause1": "Okay.",
+            "pause_timestamp": [
+                6.165063697749272,
+                6.640000000000001
+            ]
+        }
+    },
+    {
+        "dialog_185": {
+            "text": "Can you explain how earthquakes release seismic waves?",
+            "Pause1": "Oh, got it.",
+            "pause_timestamp": [
+                6.820228992142983,
+                7.92
+            ]
+        }
+    },
+    {
+        "dialog_186": {
+            "text": "How does a smartphone battery store and release energy?",
+            "Pause1": "Got it.",
+            "pause_timestamp": [
+                6.345324837299442,
+                7.04
+            ]
+        }
+    },
+    {
+        "dialog_187": {
+            "text": "What happens during the process of cell division?",
+            "Pause1": "Interesting!",
+            "pause_timestamp": [
+                6.2851468986766035,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_188": {
+            "text": "Could you describe how a car's braking system works?",
+            "Pause1": "That makes sense.",
+            "pause_timestamp": [
+                6.790558542977395,
+                8.4
+            ]
+        }
+    },
+    {
+        "dialog_189": {
+            "text": "How does a washing machine clean clothes using water and detergent?",
+            "Pause1": "Sure thing!",
+            "pause_timestamp": [
+                7.823806188763298,
+                8.88
+            ]
+        }
+    },
+    {
+        "dialog_190": {
+            "text": "Why do some materials rust while others don't?",
+            "Pause1": "Makes sense.",
+            "pause_timestamp": [
+                6.042792801260927,
+                7.12
+            ]
+        }
+    },
+    {
+        "dialog_191": {
+            "text": "Can you explain how the human respiratory system exchanges gases?",
+            "Pause1": "Yes, exactly.",
+            "pause_timestamp": [
+                7.687964662963164,
+                9.120000000000001
+            ]
+        }
+    },
+    {
+        "dialog_192": {
+            "text": "How does a toaster convert electrical energy into heat?",
+            "Pause1": "Oh, right.",
+            "pause_timestamp": [
+                6.950004194596754,
+                7.92
+            ]
+        }
+    },
+    {
+        "dialog_193": {
+            "text": "What causes the colors in a sunset?",
+            "Pause1": "Of course!",
+            "pause_timestamp": [
+                5.684101657635006,
+                6.8
+            ]
+        }
+    },
+    {
+        "dialog_194": {
+            "text": "Could you describe how a computer mouse detects movement?",
+            "Pause1": "No way!",
+            "pause_timestamp": [
+                6.440403057552679,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_195": {
+            "text": "How does a refrigerator's compressor function?",
+            "Pause1": "Really?",
+            "pause_timestamp": [
+                6.153162800472671,
+                6.96
+            ]
+        }
+    },
+    {
+        "dialog_196": {
+            "text": "Why do some animals have camouflage patterns?",
+            "Pause1": "Oh, interesting!",
+            "pause_timestamp": [
+                6.4894779001822664,
+                7.76
+            ]
+        }
+    },
+    {
+        "dialog_197": {
+            "text": "Can you explain how plants adapt to different climates?",
+            "Pause1": "Ah, okay.",
+            "pause_timestamp": [
+                6.490021436442177,
+                7.6000000000000005
+            ]
+        }
+    },
+    {
+        "dialog_198": {
+            "text": "How does a bicycle's chain transfer energy from pedals to wheels?",
+            "Pause1": "Right on!",
+            "pause_timestamp": [
+                7.342014833234252,
+                8.4
+            ]
+        }
+    },
+    {
+        "dialog_199": {
+            "text": "What happens during the process of evaporation and condensation?",
+            "Pause1": "Cool!",
+            "pause_timestamp": [
+                7.408540010263193,
+                8.08
+            ]
+        }
+    },
+    {
+        "dialog_200": {
+            "text": "Could you describe how a smartphone's camera autofocus works?",
+            "Pause1": "I understand.",
+            "pause_timestamp": [
+                7.102415703283179,
+                8.0
+            ]
+        }
+    }
+]

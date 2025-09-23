@@ -1,0 +1,2202 @@
+[
+    {
+        "dialog_1": {
+            "text": "I've been thinking about redecorating the living room, maybe switching to a minimalist style with neutral tones and some indoor plants to brighten up the space.",
+            "Pause1": "I've been thinking about redecorating the living room",
+            "Pause2": "maybe switching to a minimalist style with neutral tones and some indoor plants to brighten up the space.",
+            "pause_timestamp": [
+                5.2680272108843536,
+                6.118027210884353
+            ]
+        }
+    },
+    {
+        "dialog_2": {
+            "text": "That new Italian restaurant downtown has amazing reviews, we should really try their homemade pasta this weekend if we can get a reservation.",
+            "Pause1": "That new Italian restaurant downtown has amazing reviews",
+            "Pause2": "we should really try their homemade pasta this weekend if we can get a reservation.",
+            "pause_timestamp": [
+                7.227210884353742,
+                8.037210884353742
+            ]
+        }
+    },
+    {
+        "dialog_3": {
+            "text": "My laptop has been acting strangely lately, freezing randomly and making this weird buzzing sound whenever I try to run multiple programs at once.",
+            "Pause1": "My laptop has been acting strangely lately",
+            "Pause2": "freezing randomly and making this weird buzzing sound whenever I try to run multiple programs at once.",
+            "pause_timestamp": [
+                5.355102040816327,
+                6.145102040816327
+            ]
+        }
+    },
+    {
+        "dialog_4": {
+            "text": "Learning to play guitar has been tougher than expected, my fingers keep getting sore and I still can't smoothly transition between chords after weeks of practice.",
+            "Pause1": "Learning to play guitar has been tougher than expected",
+            "Pause2": "my fingers keep getting sore and I still can't smoothly transition between chords after weeks of practice.",
+            "pause_timestamp": [
+                5.2680272108843536,
+                6.008027210884354
+            ]
+        }
+    },
+    {
+        "dialog_5": {
+            "text": "The traffic during rush hour is unbearable, it took me nearly an hour to drive what should've been a fifteen-minute commute this morning.",
+            "Pause1": "The traffic during rush hour is unbearable",
+            "Pause2": "it took me nearly an hour to drive what should've been a fifteen-minute commute this morning.",
+            "pause_timestamp": [
+                4.745578231292517,
+                5.6355782312925164
+            ]
+        }
+    },
+    {
+        "dialog_6": {
+            "text": "I'm considering adopting a rescue dog from the shelter, but I'm not sure if my apartment building allows pets or if I have enough time to properly care for one.",
+            "Pause1": "I'm considering adopting a rescue dog from the shelter",
+            "Pause2": "but I'm not sure if my apartment building allows pets or if I have enough time to properly care for one.",
+            "pause_timestamp": [
+                7.575510204081633,
+                8.455510204081634
+            ]
+        }
+    },
+    {
+        "dialog_7": {
+            "text": "These new noise-canceling headphones were totally worth the investment, I can finally concentrate on work without being distracted by construction noises outside.",
+            "Pause1": "These new noise-canceling headphones were totally worth the investment",
+            "Pause2": "I can finally concentrate on work without being distracted by construction noises outside.",
+            "pause_timestamp": [
+                5.224489795918367,
+                5.994489795918367
+            ]
+        }
+    },
+    {
+        "dialog_8": {
+            "text": "Planning vacations stresses me out more than actual work, deciding on destinations comparing flight prices and finding decent accommodation takes so much energy.",
+            "Pause1": "Planning vacations stresses me out more than actual work",
+            "Pause2": "deciding on destinations comparing flight prices and finding decent accommodation takes so much energy.",
+            "pause_timestamp": [
+                5.877551020408164,
+                6.637551020408163
+            ]
+        }
+    },
+    {
+        "dialog_9": {
+            "text": "My grandmother's chocolate chip cookie recipe is still my favorite, she always added a pinch of sea salt that made them absolutely irresistible when fresh from the oven.",
+            "Pause1": "My grandmother's chocolate chip cookie recipe is still my favorite",
+            "Pause2": "she always added a pinch of sea salt that made them absolutely irresistible when fresh from the oven.",
+            "pause_timestamp": [
+                4.092517006802721,
+                4.922517006802721
+            ]
+        }
+    },
+    {
+        "dialog_10": {
+            "text": "Working from home has completely blurred my work-life balance, I find myself checking emails at midnight and taking conference calls during dinner time.",
+            "Pause1": "Working from home has completely blurred my work-life balance",
+            "Pause2": "I find myself checking emails at midnight and taking conference calls during dinner time.",
+            "pause_timestamp": [
+                7.619047619047619,
+                8.50904761904762
+            ]
+        }
+    },
+    {
+        "dialog_11": {
+            "text": "I've been binge-watching that crime documentary series, it's fascinating but also keeping me up way too late because I always want to watch just one more episode.",
+            "Pause1": "I've been binge-watching that crime documentary series",
+            "Pause2": "it's fascinating but also keeping me up way too late because I always want to watch just one more episode.",
+            "pause_timestamp": [
+                7.227210884353742,
+                8.037210884353742
+            ]
+        }
+    },
+    {
+        "dialog_12": {
+            "text": "My indoor plants keep dying no matter what I try, I've followed watering schedules bought special fertilizers and even talked to them but nothing seems to help.",
+            "Pause1": "My indoor plants keep dying no matter what I try",
+            "Pause2": "I've followed watering schedules bought special fertilizers and even talked to them but nothing seems to help.",
+            "pause_timestamp": [
+                5.31156462585034,
+                6.04156462585034
+            ]
+        }
+    },
+    {
+        "dialog_13": {
+            "text": "The concept of self-driving cars still makes me nervous, imagining being in a vehicle with no human control during unexpected situations feels unsettling.",
+            "Pause1": "The concept of self-driving cars still makes me nervous",
+            "Pause2": "imagining being in a vehicle with no human control during unexpected situations feels unsettling.",
+            "pause_timestamp": [
+                5.485714285714286,
+                6.195714285714286
+            ]
+        }
+    },
+    {
+        "dialog_14": {
+            "text": "I miss the simplicity of childhood summers, spending entire days at the community pool and riding bikes until sunset without a care in the world.",
+            "Pause1": "I miss the simplicity of childhood summers",
+            "Pause2": "spending entire days at the community pool and riding bikes until sunset without a care in the world.",
+            "pause_timestamp": [
+                5.355102040816327,
+                6.0751020408163265
+            ]
+        }
+    },
+    {
+        "dialog_15": {
+            "text": "These new productivity apps are overwhelming, I spend more time organizing tasks and setting reminders than actually completing the work.",
+            "Pause1": "These new productivity apps are overwhelming",
+            "Pause2": "I spend more time organizing tasks and setting reminders than actually completing the work.",
+            "pause_timestamp": [
+                4.919727891156462,
+                5.729727891156463
+            ]
+        }
+    },
+    {
+        "dialog_16": {
+            "text": "My favorite bookstore is closing after thirty years, another victim of online retailers and changing reading habits which makes me genuinely sad.",
+            "Pause1": "My favorite bookstore is closing after thirty years",
+            "Pause2": "another victim of online retailers and changing reading habits which makes me genuinely sad.",
+            "pause_timestamp": [
+                8.315646258503401,
+                9.115646258503402
+            ]
+        }
+    },
+    {
+        "dialog_17": {
+            "text": "I've developed this strange habit of checking my phone first thing in the morning, before even getting out of bed or saying good morning to anyone.",
+            "Pause1": "I've developed this strange habit of checking my phone first thing in the morning",
+            "Pause2": "before even getting out of bed or saying good morning to anyone.",
+            "pause_timestamp": [
+                4.789115646258503,
+                5.569115646258504
+            ]
+        }
+    },
+    {
+        "dialog_18": {
+            "text": "Learning to meditate has been challenging for my restless mind, I can't seem to quiet my thoughts for more than thirty seconds before mental chatter takes over.",
+            "Pause1": "Learning to meditate has been challenging for my restless mind",
+            "Pause2": "I can't seem to quiet my thoughts for more than thirty seconds before mental chatter takes over.",
+            "pause_timestamp": [
+                5.703401360544218,
+                6.483401360544218
+            ]
+        }
+    },
+    {
+        "dialog_19": {
+            "text": "The farmers market has the most amazing seasonal produce, I bought these heirloom tomatoes last weekend that tasted like sunshine in every bite.",
+            "Pause1": "The farmers market has the most amazing seasonal produce",
+            "Pause2": "I bought these heirloom tomatoes last weekend that tasted like sunshine in every bite.",
+            "pause_timestamp": [
+                5.224489795918367,
+                5.994489795918367
+            ]
+        }
+    },
+    {
+        "dialog_20": {
+            "text": "My car is making this concerning rattling noise, I should probably take it to the mechanic before it turns into a major expensive repair.",
+            "Pause1": "My car is making this concerning rattling noise",
+            "Pause2": "I should probably take it to the mechanic before it turns into a major expensive repair.",
+            "pause_timestamp": [
+                5.616326530612245,
+                6.436326530612245
+            ]
+        }
+    },
+    {
+        "dialog_21": {
+            "text": "I've been experimenting with sourdough bread baking, my starter is finally active but I still can't achieve that perfect crispy crust and airy interior.",
+            "Pause1": "I've been experimenting with sourdough bread baking",
+            "Pause2": "my starter is finally active but I still can't achieve that perfect crispy crust and airy interior.",
+            "pause_timestamp": [
+                7.923809523809524,
+                8.703809523809523
+            ]
+        }
+    },
+    {
+        "dialog_22": {
+            "text": "The constant notifications on my devices are driving me crazy, I'm considering a digital detox weekend without any screens or internet access.",
+            "Pause1": "The constant notifications on my devices are driving me crazy",
+            "Pause2": "I'm considering a digital detox weekend without any screens or internet access.",
+            "pause_timestamp": [
+                5.180952380952381,
+                5.930952380952381
+            ]
+        }
+    },
+    {
+        "dialog_23": {
+            "text": "Public speaking still terrifies me no matter how many times I do it, my hands shake and my voice quivers even during small team presentations.",
+            "Pause1": "Public speaking still terrifies me no matter how many times I do it",
+            "Pause2": "my hands shake and my voice quivers even during small team presentations.",
+            "pause_timestamp": [
+                4.83265306122449,
+                5.62265306122449
+            ]
+        }
+    },
+    {
+        "dialog_24": {
+            "text": "I found this amazing little coffee shop hidden in the alley, their oat milk latte has ruined all other coffee for me with its perfect balance.",
+            "Pause1": "I found this amazing little coffee shop hidden in the alley",
+            "Pause2": "their oat milk latte has ruined all other coffee for me with its perfect balance.",
+            "pause_timestamp": [
+                4.266666666666667,
+                5.036666666666667
+            ]
+        }
+    },
+    {
+        "dialog_25": {
+            "text": "My sleep schedule is completely messed up, I stay up scrolling through social media and then struggle to wake up when my alarm goes off.",
+            "Pause1": "My sleep schedule is completely messed up",
+            "Pause2": "I stay up scrolling through social media and then struggle to wake up when my alarm goes off.",
+            "pause_timestamp": [
+                5.050340136054421,
+                5.910340136054422
+            ]
+        }
+    },
+    {
+        "dialog_26": {
+            "text": "Gardening has become my unexpected therapy, there's something deeply satisfying about watching things grow from tiny seeds to flourishing plants.",
+            "Pause1": "Gardening has become my unexpected therapy",
+            "Pause2": "there's something deeply satisfying about watching things grow from tiny seeds to flourishing plants.",
+            "pause_timestamp": [
+                4.789115646258503,
+                5.679115646258503
+            ]
+        }
+    },
+    {
+        "dialog_27": {
+            "text": "I keep forgetting important birthdays despite setting reminders, my brain seems to automatically delete date information as soon as I hear it.",
+            "Pause1": "I keep forgetting important birthdays despite setting reminders",
+            "Pause2": "my brain seems to automatically delete date information as soon as I hear it.",
+            "pause_timestamp": [
+                7.401360544217687,
+                8.241360544217688
+            ]
+        }
+    },
+    {
+        "dialog_28": {
+            "text": "The concept of universal basic income fascinates me, imagining how society would change if people's basic needs were guaranteed is intriguing.",
+            "Pause1": "The concept of universal basic income fascinates me",
+            "Pause2": "imagining how society would change if people's basic needs were guaranteed is intriguing.",
+            "pause_timestamp": [
+                5.616326530612245,
+                6.366326530612245
+            ]
+        }
+    },
+    {
+        "dialog_29": {
+            "text": "I accidentally left my reusable shopping bags at home again, now I have this pile of plastic bags that I feel guilty about throwing away.",
+            "Pause1": "I accidentally left my reusable shopping bags at home again",
+            "Pause2": "now I have this pile of plastic bags that I feel guilty about throwing away.",
+            "pause_timestamp": [
+                3.7006802721088436,
+                4.5206802721088435
+            ]
+        }
+    },
+    {
+        "dialog_30": {
+            "text": "My childhood home is being demolished next month, it's strange knowing that physical space holding so many memories will simply disappear.",
+            "Pause1": "My childhood home is being demolished next month",
+            "Pause2": "it's strange knowing that physical space holding so many memories will simply disappear.",
+            "pause_timestamp": [
+                5.659863945578231,
+                6.539863945578231
+            ]
+        }
+    },
+    {
+        "dialog_31": {
+            "text": "I've developed an obsession with true crime podcasts, my family thinks it's morbid but I find the psychological aspects incredibly fascinating.",
+            "Pause1": "I've developed an obsession with true crime podcasts",
+            "Pause2": "my family thinks it's morbid but I find the psychological aspects incredibly fascinating.",
+            "pause_timestamp": [
+                6.0081632653061225,
+                6.778163265306123
+            ]
+        }
+    },
+    {
+        "dialog_32": {
+            "text": "The battery life on my phone is getting noticeably worse, I might need to replace it soon or carry a power bank everywhere I go.",
+            "Pause1": "The battery life on my phone is getting noticeably worse",
+            "Pause2": "I might need to replace it soon or carry a power bank everywhere I go.",
+            "pause_timestamp": [
+                6.487074829931973,
+                7.227074829931973
+            ]
+        }
+    },
+    {
+        "dialog_33": {
+            "text": "I'm trying to reduce my plastic consumption, but finding alternatives for everyday items like toothpaste and shampoo is surprisingly difficult.",
+            "Pause1": "I'm trying to reduce my plastic consumption",
+            "Pause2": "but finding alternatives for everyday items like toothpaste and shampoo is surprisingly difficult.",
+            "pause_timestamp": [
+                4.745578231292517,
+                5.605578231292517
+            ]
+        }
+    },
+    {
+        "dialog_34": {
+            "text": "My grandmother's wisdom about relationships still resonates, she used to say that understanding is more important than being understood in marriage.",
+            "Pause1": "My grandmother's wisdom about relationships still resonates",
+            "Pause2": "she used to say that understanding is more important than being understood in marriage.",
+            "pause_timestamp": [
+                5.529251700680272,
+                6.389251700680273
+            ]
+        }
+    },
+    {
+        "dialog_35": {
+            "text": "The rise of AI art generators both excites and worries me, they create stunning images but raise complex questions about human creativity.",
+            "Pause1": "The rise of AI art generators both excites and worries me",
+            "Pause2": "they create stunning images but raise complex questions about human creativity.",
+            "pause_timestamp": [
+                4.963265306122449,
+                5.803265306122449
+            ]
+        }
+    },
+    {
+        "dialog_36": {
+            "text": "I've been having vivid dreams every night since I stopped watching TV before bed, some are wonderful adventures while others are bizarre and confusing.",
+            "Pause1": "I've been having vivid dreams every night since I stopped watching TV before bed",
+            "Pause2": "some are wonderful adventures while others are bizarre and confusing.",
+            "pause_timestamp": [
+                5.050340136054421,
+                5.880340136054421
+            ]
+        }
+    },
+    {
+        "dialog_37": {
+            "text": "My attempt at growing vegetables on the balcony failed spectacularlythe tomatoes got blossom rot and insects devoured the lettuce overnight.",
+            "Pause1": "My attempt at growing vegetables on the balcony failed spectacularly",
+            "Pause2": "the tomatoes got blossom rot and insects devoured the lettuce overnight.",
+            "pause_timestamp": [
+                6.617687074829932,
+                7.397687074829932
+            ]
+        }
+    },
+    {
+        "dialog_38": {
+            "text": "I discovered this incredible used bookstore downtown, the smell of old paper and the hidden treasures on dusty shelves make me ridiculously happy.",
+            "Pause1": "I discovered this incredible used bookstore downtown",
+            "Pause2": "the smell of old paper and the hidden treasures on dusty shelves make me ridiculously happy.",
+            "pause_timestamp": [
+                3.8312925170068026,
+                4.621292517006802
+            ]
+        }
+    },
+    {
+        "dialog_39": {
+            "text": "The constant pressure to be productive is exhausting, sometimes I just want to spend a whole day doing absolutely nothing without feeling guilty.",
+            "Pause1": "The constant pressure to be productive is exhausting",
+            "Pause2": "sometimes I just want to spend a whole day doing absolutely nothing without feeling guilty.",
+            "pause_timestamp": [
+                4.397278911564626,
+                5.257278911564626
+            ]
+        }
+    },
+    {
+        "dialog_40": {
+            "text": "I've started writing handwritten letters to friends, there's something special about receiving physical mail in this digital age that emails can't match.",
+            "Pause1": "I've started writing handwritten letters to friends",
+            "Pause2": "there's something special about receiving physical mail in this digital age that emails can't match.",
+            "pause_timestamp": [
+                4.919727891156462,
+                5.779727891156463
+            ]
+        }
+    },
+    {
+        "dialog_41": {
+            "text": "My attempts at journaling always fizzle out after a few days, I either forget to write or feel like my daily life isn't interesting enough to document.",
+            "Pause1": "My attempts at journaling always fizzle out after a few days",
+            "Pause2": "I either forget to write or feel like my daily life isn't interesting enough to document.",
+            "pause_timestamp": [
+                7.0095238095238095,
+                7.87952380952381
+            ]
+        }
+    },
+    {
+        "dialog_42": {
+            "text": "The neighborhood cats have adopted my porch as their gathering spot, now I keep treats in my cupboard and know all their distinct personalities.",
+            "Pause1": "The neighborhood cats have adopted my porch as their gathering spot",
+            "Pause2": "now I keep treats in my cupboard and know all their distinct personalities.",
+            "pause_timestamp": [
+                5.442176870748299,
+                6.232176870748299
+            ]
+        }
+    },
+    {
+        "dialog_43": {
+            "text": "I'm fascinated by people who can speak multiple languages fluently, the mental flexibility required seems almost superhuman to my monolingual brain.",
+            "Pause1": "I'm fascinated by people who can speak multiple languages fluently",
+            "Pause2": "the mental flexibility required seems almost superhuman to my monolingual brain.",
+            "pause_timestamp": [
+                4.179591836734694,
+                5.009591836734694
+            ]
+        }
+    },
+    {
+        "dialog_44": {
+            "text": "My favorite sweater shrank in the wash despite following the care instructions, I'm devastated because it was perfectly broken in and comfortable.",
+            "Pause1": "My favorite sweater shrank in the wash despite following the care instructions",
+            "Pause2": "I'm devastated because it was perfectly broken in and comfortable.",
+            "pause_timestamp": [
+                5.137414965986395,
+                5.987414965986394
+            ]
+        }
+    },
+    {
+        "dialog_45": {
+            "text": "I've been researching my family genealogy and discovering surprising stories, learning about ancestors' struggles puts my own challenges in perspective.",
+            "Pause1": "I've been researching my family genealogy and discovering surprising stories",
+            "Pause2": "learning about ancestors' struggles puts my own challenges in perspective.",
+            "pause_timestamp": [
+                6.922448979591837,
+                7.672448979591837
+            ]
+        }
+    },
+    {
+        "dialog_46": {
+            "text": "The sound of rain on the roof is my ultimate relaxation trigger, I'll sometimes play recordings just to help me fall asleep at night.",
+            "Pause1": "The sound of rain on the roof is my ultimate relaxation trigger",
+            "Pause2": "I'll sometimes play recordings just to help me fall asleep at night.",
+            "pause_timestamp": [
+                6.7482993197278915,
+                7.508299319727891
+            ]
+        }
+    },
+    {
+        "dialog_47": {
+            "text": "I keep putting off getting a haircut even though my split ends are terrible, something about salon small talk makes me procrastinate for months.",
+            "Pause1": "I keep putting off getting a haircut even though my split ends are terrible",
+            "Pause2": "something about salon small talk makes me procrastinate for months.",
+            "pause_timestamp": [
+                3.4394557823129253,
+                4.229455782312925
+            ]
+        }
+    },
+    {
+        "dialog_48": {
+            "text": "Modern dating apps feel more like job application portals, swiping through profiles becomes this mechanical process lacking genuine human connection.",
+            "Pause1": "Modern dating apps feel more like job application portals",
+            "Pause2": "swiping through profiles becomes this mechanical process lacking genuine human connection.",
+            "pause_timestamp": [
+                8.751020408163265,
+                9.601020408163265
+            ]
+        }
+    },
+    {
+        "dialog_49": {
+            "text": "I found an old photo album while cleaning the attic, seeing pictures of my parents when they were my age was surprisingly emotional and nostalgic.",
+            "Pause1": "I found an old photo album while cleaning the attic",
+            "Pause2": "seeing pictures of my parents when they were my age was surprisingly emotional and nostalgic.",
+            "pause_timestamp": [
+                4.527891156462585,
+                5.347891156462586
+            ]
+        }
+    },
+    {
+        "dialog_50": {
+            "text": "The satisfaction of finishing a thick novel is incomparable, that bittersweet moment when you close the back cover and say goodbye to characters.",
+            "Pause1": "The satisfaction of finishing a thick novel is incomparable",
+            "Pause2": "that bittersweet moment when you close the back cover and say goodbye to characters.",
+            "pause_timestamp": [
+                5.79047619047619,
+                6.650476190476191
+            ]
+        }
+    },
+    {
+        "dialog_51": {
+            "text": "I've been trying to master French onion soup for months now, getting that perfect balance of sweet caramelized onions and rich beef broth is trickier than it looks on cooking shows.",
+            "Pause1": "I've been trying to master French onion soup for months now",
+            "Pause2": "getting that perfect balance of sweet caramelized onions and rich beef broth is trickier than it looks on cooking shows.",
+            "pause_timestamp": [
+                7.619047619047619,
+                8.449047619047619
+            ]
+        }
+    },
+    {
+        "dialog_52": {
+            "text": "My local library is hosting these fascinating historical lectures, last week's session about medieval medicine practices was equal parts horrifying and captivating.",
+            "Pause1": "My local library is hosting these fascinating historical lectures",
+            "Pause2": "last week's session about medieval medicine practices was equal parts horrifying and captivating.",
+            "pause_timestamp": [
+                4.048979591836734,
+                4.828979591836735
+            ]
+        }
+    },
+    {
+        "dialog_53": {
+            "text": "The way sunlight filters through my bedroom window in the early morning, it creates these dancing patterns on the wall that make waking up almost magical.",
+            "Pause1": "The way sunlight filters through my bedroom window in the early morning",
+            "Pause2": "it creates these dancing patterns on the wall that make waking up almost magical.",
+            "pause_timestamp": [
+                4.702040816326531,
+                5.512040816326531
+            ]
+        }
+    },
+    {
+        "dialog_54": {
+            "text": "I've started collecting vintage vinyl records from thrift stores, there's something incredibly satisfying about hearing those warm crackles before the music begins.",
+            "Pause1": "I've started collecting vintage vinyl records from thrift stores",
+            "Pause2": "there's something incredibly satisfying about hearing those warm crackles before the music begins.",
+            "pause_timestamp": [
+                4.527891156462585,
+                5.287891156462585
+            ]
+        }
+    },
+    {
+        "dialog_55": {
+            "text": "My attempt at growing mushrooms in the basement failed spectacularly, ended up with a science experiment that smelled like wet socks and disappointment.",
+            "Pause1": "My attempt at growing mushrooms in the basement failed spectacularly",
+            "Pause2": "ended up with a science experiment that smelled like wet socks and disappointment.",
+            "pause_timestamp": [
+                5.834013605442177,
+                6.664013605442177
+            ]
+        }
+    },
+    {
+        "dialog_56": {
+            "text": "The concept of parallel universes keeps me up at night, imagining infinite versions of myself making different choices is both thrilling and terrifying.",
+            "Pause1": "The concept of parallel universes keeps me up at night",
+            "Pause2": "imagining infinite versions of myself making different choices is both thrilling and terrifying.",
+            "pause_timestamp": [
+                4.745578231292517,
+                5.615578231292517
+            ]
+        }
+    },
+    {
+        "dialog_57": {
+            "text": "I discovered this hidden waterfall during my hike yesterday, the way the mist cooled my face after hours of walking felt like nature's reward.",
+            "Pause1": "I discovered this hidden waterfall during my hike yesterday",
+            "Pause2": "the way the mist cooled my face after hours of walking felt like nature's reward.",
+            "pause_timestamp": [
+                5.572789115646258,
+                6.342789115646259
+            ]
+        }
+    },
+    {
+        "dialog_58": {
+            "text": "Baking bread has become my pandemic survival skill, though my neighbors probably think I'm running a bakery with all the trial batches I share.",
+            "Pause1": "Baking bread has become my pandemic survival skill",
+            "Pause2": "though my neighbors probably think I'm running a bakery with all the trial batches I share.",
+            "pause_timestamp": [
+                5.180952380952381,
+                6.060952380952381
+            ]
+        }
+    },
+    {
+        "dialog_59": {
+            "text": "My childhood teddy bear still sits on my bookshelf, thirty years later and I can't bring myself to store away those comforting glass eyes.",
+            "Pause1": "My childhood teddy bear still sits on my bookshelf",
+            "Pause2": "thirty years later and I can't bring myself to store away those comforting glass eyes.",
+            "pause_timestamp": [
+                4.658503401360544,
+                5.418503401360544
+            ]
+        }
+    },
+    {
+        "dialog_60": {
+            "text": "I've developed this strange fascination with watching storm radar maps, tracking weather systems gives me a false sense of controlling the uncontrollable.",
+            "Pause1": "I've developed this strange fascination with watching storm radar maps",
+            "Pause2": "tracking weather systems gives me a false sense of controlling the uncontrollable.",
+            "pause_timestamp": [
+                5.355102040816327,
+                6.175102040816327
+            ]
+        }
+    },
+    {
+        "dialog_61": {
+            "text": "The hummingbird feeder outside my window has become my personal nature channel, those tiny creatures hovering mid-air never cease to amaze me.",
+            "Pause1": "The hummingbird feeder outside my window has become my personal nature channel",
+            "Pause2": "those tiny creatures hovering mid-air never cease to amaze me.",
+            "pause_timestamp": [
+                5.180952380952381,
+                5.910952380952381
+            ]
+        }
+    },
+    {
+        "dialog_62": {
+            "text": "I keep misplacing my reading glasses in the most absurd places, last week I found them in the refrigerator next to the butter compartment.",
+            "Pause1": "I keep misplacing my reading glasses in the most absurd places",
+            "Pause2": "last week I found them in the refrigerator next to the butter compartment.",
+            "pause_timestamp": [
+                7.793197278911564,
+                8.673197278911564
+            ]
+        }
+    },
+    {
+        "dialog_63": {
+            "text": "Learning constellations has changed how I see the night sky, now I can spot Orion's belt even through city light pollution on clear evenings.",
+            "Pause1": "Learning constellations has changed how I see the night sky",
+            "Pause2": "now I can spot Orion's belt even through city light pollution on clear evenings.",
+            "pause_timestamp": [
+                5.659863945578231,
+                6.489863945578231
+            ]
+        }
+    },
+    {
+        "dialog_64": {
+            "text": "My grandmother's handwritten recipes are my most treasured possessions, her shaky cursive and ingredient substitutions tell stories beyond the food.",
+            "Pause1": "My grandmother's handwritten recipes are my most treasured possessions",
+            "Pause2": "her shaky cursive and ingredient substitutions tell stories beyond the food.",
+            "pause_timestamp": [
+                5.224489795918367,
+                5.9544897959183665
+            ]
+        }
+    },
+    {
+        "dialog_65": {
+            "text": "The neighborhood crows recognize me now and caw when I walk by, I may have created monsters by occasionally sharing my sandwich crusts.",
+            "Pause1": "The neighborhood crows recognize me now and caw when I walk by",
+            "Pause2": "I may have created monsters by occasionally sharing my sandwich crusts.",
+            "pause_timestamp": [
+                5.442176870748299,
+                6.282176870748299
+            ]
+        }
+    },
+    {
+        "dialog_66": {
+            "text": "I've been experimenting with making natural dyes from kitchen scraps, avocado pits create the most beautiful blush pink fabric tones imaginable.",
+            "Pause1": "I've been experimenting with making natural dyes from kitchen scraps",
+            "Pause2": "avocado pits create the most beautiful blush pink fabric tones imaginable.",
+            "pause_timestamp": [
+                4.310204081632653,
+                5.160204081632653
+            ]
+        }
+    },
+    {
+        "dialog_67": {
+            "text": "There's this particular bench in the park where I always feel peaceful, maybe because it's slightly hidden by lilac bushes that bloom purple in spring.",
+            "Pause1": "There's this particular bench in the park where I always feel peaceful",
+            "Pause2": "maybe because it's slightly hidden by lilac bushes that bloom purple in spring.",
+            "pause_timestamp": [
+                6.965986394557823,
+                7.795986394557823
+            ]
+        }
+    },
+    {
+        "dialog_68": {
+            "text": "My attempts at composting have attracted every raccoon within five blocks, now I've got a fortified bin that looks like Fort Knox for food scraps.",
+            "Pause1": "My attempts at composting have attracted every raccoon within five blocks",
+            "Pause2": "now I've got a fortified bin that looks like Fort Knox for food scraps.",
+            "pause_timestamp": [
+                7.793197278911564,
+                8.513197278911564
+            ]
+        }
+    },
+    {
+        "dialog_69": {
+            "text": "I found my old diary from middle school while cleaning, the dramatic entries about cafeteria politics are equal parts cringe and nostalgia.",
+            "Pause1": "I found my old diary from middle school while cleaning",
+            "Pause2": "the dramatic entries about cafeteria politics are equal parts cringe and nostalgia.",
+            "pause_timestamp": [
+                4.702040816326531,
+                5.492040816326531
+            ]
+        }
+    },
+    {
+        "dialog_70": {
+            "text": "The smell of freshly cut grass instantly transports me to childhood summers, when the biggest concern was whether the ice cream truck would come today.",
+            "Pause1": "The smell of freshly cut grass instantly transports me to childhood summers",
+            "Pause2": "when the biggest concern was whether the ice cream truck would come today.",
+            "pause_timestamp": [
+                4.614965986394558,
+                5.364965986394558
+            ]
+        }
+    },
+    {
+        "dialog_71": {
+            "text": "I've started identifying local bird songs using an app, now I know which cheerful chirp belongs to cardinals versus chickadees in my backyard.",
+            "Pause1": "I've started identifying local bird songs using an app",
+            "Pause2": "now I know which cheerful chirp belongs to cardinals versus chickadees in my backyard.",
+            "pause_timestamp": [
+                4.614965986394558,
+                5.364965986394558
+            ]
+        }
+    },
+    {
+        "dialog_72": {
+            "text": "My favorite coffee mug broke this morning, which shouldn't matter but that perfect handle shape took years to discover and now it's gone.",
+            "Pause1": "My favorite coffee mug broke this morning",
+            "Pause2": "which shouldn't matter but that perfect handle shape took years to discover and now it's gone.",
+            "pause_timestamp": [
+                7.096598639455783,
+                7.836598639455783
+            ]
+        }
+    },
+    {
+        "dialog_73": {
+            "text": "I keep a notebook of interesting overheard conversations, like yesterday at the bus stop when someone passionately debated sandwich architecture.",
+            "Pause1": "I keep a notebook of interesting overheard conversations",
+            "Pause2": "like yesterday at the bus stop when someone passionately debated sandwich architecture.",
+            "pause_timestamp": [
+                4.35374149659864,
+                5.13374149659864
+            ]
+        }
+    },
+    {
+        "dialog_74": {
+            "text": "The sound of a distant train whistle at night stirs something in me, it's simultaneously lonely and comforting in ways I can't explain.",
+            "Pause1": "The sound of a distant train whistle at night stirs something in me",
+            "Pause2": "it's simultaneously lonely and comforting in ways I can't explain.",
+            "pause_timestamp": [
+                7.314285714285714,
+                8.054285714285713
+            ]
+        }
+    },
+    {
+        "dialog_75": {
+            "text": "I've become obsessed with organizing my bookshelves by color gradient, the rainbow effect pleases my eyes but makes finding specific titles impossible.",
+            "Pause1": "I've become obsessed with organizing my bookshelves by color gradient",
+            "Pause2": "the rainbow effect pleases my eyes but makes finding specific titles impossible.",
+            "pause_timestamp": [
+                4.702040816326531,
+                5.552040816326531
+            ]
+        }
+    },
+    {
+        "dialog_76": {
+            "text": "My balcony herb garden is thriving except for the basil, which stubbornly refuses to grow despite getting identical care as the flourishing rosemary.",
+            "Pause1": "My balcony herb garden is thriving except for the basil",
+            "Pause2": "which stubbornly refuses to grow despite getting identical care as the flourishing rosemary.",
+            "pause_timestamp": [
+                5.79047619047619,
+                6.60047619047619
+            ]
+        }
+    },
+    {
+        "dialog_77": {
+            "text": "I started learning chess during lockdown and now I'm hooked, though my strategy mostly involves hoping my opponent doesn't notice my mistakes.",
+            "Pause1": "I started learning chess during lockdown and now I'm hooked",
+            "Pause2": "though my strategy mostly involves hoping my opponent doesn't notice my mistakes.",
+            "pause_timestamp": [
+                5.006802721088436,
+                5.766802721088435
+            ]
+        }
+    },
+    {
+        "dialog_78": {
+            "text": "The way dust motes dance in sunbeams streaming through windows, it's like watching microscopic ballet performers in a golden spotlight.",
+            "Pause1": "The way dust motes dance in sunbeams streaming through windows",
+            "Pause2": "it's like watching microscopic ballet performers in a golden spotlight.",
+            "pause_timestamp": [
+                3.8312925170068026,
+                4.6512925170068025
+            ]
+        }
+    },
+    {
+        "dialog_79": {
+            "text": "I've been mapping out all the independent bookstores in the city, each has its own personality from the grumpy cat resident to the poetry nook.",
+            "Pause1": "I've been mapping out all the independent bookstores in the city",
+            "Pause2": "each has its own personality from the grumpy cat resident to the poetry nook.",
+            "pause_timestamp": [
+                7.053061224489796,
+                7.863061224489796
+            ]
+        }
+    },
+    {
+        "dialog_80": {
+            "text": "My collection of sea glass has grown embarrassingly large, but each piece holds the memory of the beach where I found it during different seasons.",
+            "Pause1": "My collection of sea glass has grown embarrassingly large",
+            "Pause2": "but each piece holds the memory of the beach where I found it during different seasons.",
+            "pause_timestamp": [
+                4.397278911564626,
+                5.247278911564625
+            ]
+        }
+    },
+    {
+        "dialog_81": {
+            "text": "I've developed a ritual of watching the sunset from my fire escape, those fifteen minutes of changing colors center me more than any meditation app.",
+            "Pause1": "I've developed a ritual of watching the sunset from my fire escape",
+            "Pause2": "those fifteen minutes of changing colors center me more than any meditation app.",
+            "pause_timestamp": [
+                7.793197278911564,
+                8.593197278911564
+            ]
+        }
+    },
+    {
+        "dialog_82": {
+            "text": "The neighborhood bakery's sourdough starter is older than I am, and you can taste generations of care in every crusty tangy slice they sell.",
+            "Pause1": "The neighborhood bakery's sourdough starter is older than I am",
+            "Pause2": "and you can taste generations of care in every crusty tangy slice they sell.",
+            "pause_timestamp": [
+                5.659863945578231,
+                6.499863945578231
+            ]
+        }
+    },
+    {
+        "dialog_83": {
+            "text": "I keep a 'compliments journal' to record kind things people say, revisiting it on bad days is like emotional first aid for the soul.",
+            "Pause1": "I keep a 'compliments journal' to record kind things people say",
+            "Pause2": "revisiting it on bad days is like emotional first aid for the soul.",
+            "pause_timestamp": [
+                4.702040816326531,
+                5.502040816326531
+            ]
+        }
+    },
+    {
+        "dialog_84": {
+            "text": "There's a particular tree in the park with bark that looks like dragon scales, I make up elaborate fantasy stories about it during my walks.",
+            "Pause1": "There's a particular tree in the park with bark that looks like dragon scales",
+            "Pause2": "I make up elaborate fantasy stories about it during my walks.",
+            "pause_timestamp": [
+                4.83265306122449,
+                5.66265306122449
+            ]
+        }
+    },
+    {
+        "dialog_85": {
+            "text": "I've been practicing recognizing cloud formations, now I can distinguish cumulonimbus from cirrus while waiting for the bus each morning.",
+            "Pause1": "I've been practicing recognizing cloud formations",
+            "Pause2": "now I can distinguish cumulonimbus from cirrus while waiting for the bus each morning.",
+            "pause_timestamp": [
+                3.3959183673469386,
+                4.245918367346938
+            ]
+        }
+    },
+    {
+        "dialog_86": {
+            "text": "The public piano at the train station always has someone playing, hearing unexpected Chopin or jazz standards transforms commuting into a concert.",
+            "Pause1": "The public piano at the train station always has someone playing",
+            "Pause2": "hearing unexpected Chopin or jazz standards transforms commuting into a concert.",
+            "pause_timestamp": [
+                5.616326530612245,
+                6.446326530612245
+            ]
+        }
+    },
+    {
+        "dialog_87": {
+            "text": "I started pressing flowers from significant moments, my wedding bouquet first garden roses even weeds from memorable hikes in the mountains.",
+            "Pause1": "I started pressing flowers from significant moments",
+            "Pause2": "my wedding bouquet first garden roses even weeds from memorable hikes in the mountains.",
+            "pause_timestamp": [
+                5.137414965986395,
+                5.927414965986395
+            ]
+        }
+    },
+    {
+        "dialog_88": {
+            "text": "My grandmother's perfume bottle sits empty on my dresser, sometimes I open it just to catch the ghost of her scent that lingers after decades.",
+            "Pause1": "My grandmother's perfume bottle sits empty on my dresser",
+            "Pause2": "sometimes I open it just to catch the ghost of her scent that lingers after decades.",
+            "pause_timestamp": [
+                7.706122448979592,
+                8.556122448979592
+            ]
+        }
+    },
+    {
+        "dialog_89": {
+            "text": "The ritual of brewing loose leaf tea in my ceramic pot, watching leaves unfurl while steam rises creates a miniature mindfulness practice.",
+            "Pause1": "The ritual of brewing loose leaf tea in my ceramic pot",
+            "Pause2": "watching leaves unfurl while steam rises creates a miniature mindfulness practice.",
+            "pause_timestamp": [
+                6.4,
+                7.24
+            ]
+        }
+    },
+    {
+        "dialog_90": {
+            "text": "I've been documenting the changing graffiti on the bridge underpass, watching temporary art evolve and disappear feels like urban archaeology.",
+            "Pause1": "I've been documenting the changing graffiti on the bridge underpass",
+            "Pause2": "watching temporary art evolve and disappear feels like urban archaeology.",
+            "pause_timestamp": [
+                6.835374149659864,
+                7.585374149659864
+            ]
+        }
+    },
+    {
+        "dialog_91": {
+            "text": "My collection of mismatched teacups tells stories, each chipped handle or floral pattern represents a flea market find or sentimental gift.",
+            "Pause1": "My collection of mismatched teacups tells stories",
+            "Pause2": "each chipped handle or floral pattern represents a flea market find or sentimental gift.",
+            "pause_timestamp": [
+                5.180952380952381,
+                6.050952380952381
+            ]
+        }
+    },
+    {
+        "dialog_92": {
+            "text": "The satisfaction of fixing something myself, like when I repaired my dripping faucet using YouTube tutorials and stubborn determination.",
+            "Pause1": "The satisfaction of fixing something myself",
+            "Pause2": "like when I repaired my dripping faucet using YouTube tutorials and stubborn determination.",
+            "pause_timestamp": [
+                4.614965986394558,
+                5.434965986394558
+            ]
+        }
+    },
+    {
+        "dialog_93": {
+            "text": "I keep a moon journal tracking lunar phases, noticing how its rhythms subtly influence my sleep patterns and creative energy each month.",
+            "Pause1": "I keep a moon journal tracking lunar phases",
+            "Pause2": "noticing how its rhythms subtly influence my sleep patterns and creative energy each month.",
+            "pause_timestamp": [
+                4.614965986394558,
+                5.404965986394558
+            ]
+        }
+    },
+    {
+        "dialog_94": {
+            "text": "The particular way old book pages yellow at the edges, it's like time itself is adding golden borders to every story contained within.",
+            "Pause1": "The particular way old book pages yellow at the edges",
+            "Pause2": "it's like time itself is adding golden borders to every story contained within.",
+            "pause_timestamp": [
+                5.659863945578231,
+                6.429863945578232
+            ]
+        }
+    },
+    {
+        "dialog_95": {
+            "text": "I've started foraging edible weeds in city parks, discovering that 'pests' like dandelions make surprisingly delicious salad greens.",
+            "Pause1": "I've started foraging edible weeds in city parks",
+            "Pause2": "discovering that 'pests' like dandelions make surprisingly delicious salad greens.",
+            "pause_timestamp": [
+                3.613605442176871,
+                4.453605442176871
+            ]
+        }
+    },
+    {
+        "dialog_96": {
+            "text": "The comforting weight of my weighted blanket, it feels like being gently anchored during storms of anxiety or restless nights.",
+            "Pause1": "The comforting weight of my weighted blanket",
+            "Pause2": "it feels like being gently anchored during storms of anxiety or restless nights.",
+            "pause_timestamp": [
+                4.702040816326531,
+                5.482040816326531
+            ]
+        }
+    },
+    {
+        "dialog_97": {
+            "text": "I've memorized the exact pattern of cracks in my bedroom ceiling, they form constellations I've named during countless sleepless hours.",
+            "Pause1": "I've memorized the exact pattern of cracks in my bedroom ceiling",
+            "Pause2": "they form constellations I've named during countless sleepless hours.",
+            "pause_timestamp": [
+                4.571428571428571,
+                5.4314285714285715
+            ]
+        }
+    },
+    {
+        "dialog_98": {
+            "text": "The ritual of polishing my grandmother's silver tea set, connecting with generations of women who performed this same careful act before me.",
+            "Pause1": "The ritual of polishing my grandmother's silver tea set",
+            "Pause2": "connecting with generations of women who performed this same careful act before me.",
+            "pause_timestamp": [
+                6.2693877551020405,
+                7.089387755102041
+            ]
+        }
+    },
+    {
+        "dialog_99": {
+            "text": "I keep a 'found poetry' journal assembling phrases from everyday life, bus ads packaging labels and overheard words become accidental art.",
+            "Pause1": "I keep a 'found poetry' journal assembling phrases from everyday life",
+            "Pause2": "bus ads packaging labels and overheard words become accidental art.",
+            "pause_timestamp": [
+                4.397278911564626,
+                5.117278911564625
+            ]
+        }
+    },
+    {
+        "dialog_100": {
+            "text": "The way morning fog transforms familiar streets into mysterious landscapes, it's like living inside a watercolor painting for a few magical hours.",
+            "Pause1": "The way morning fog transforms familiar streets into mysterious landscapes",
+            "Pause2": "it's like living inside a watercolor painting for a few magical hours.",
+            "pause_timestamp": [
+                4.745578231292517,
+                5.625578231292517
+            ]
+        }
+    },
+    {
+        "dialog_101": {
+            "text": "Apparently, the weather forecast predicts heavy rain for the entire weekend, so we might need to adjust our hiking plans.",
+            "Pause1": "Apparently, the weather forecast predicts heavy rain for the entire weekend",
+            "Pause2": "so we might need to adjust our hiking plans.",
+            "pause_timestamp": [
+                3.8312925170068026,
+                4.473777873242247
+            ]
+        }
+    },
+    {
+        "dialog_102": {
+            "text": "Could you explain why the meeting was rescheduled three times without any prior notification?",
+            "Pause1": "Could you explain why the meeting was rescheduled",
+            "Pause2": "three times without any prior notification?",
+            "pause_timestamp": [
+                3.765986394557823,
+                4.408471750793266
+            ]
+        }
+    },
+    {
+        "dialog_103": {
+            "text": "Good luck to anyone trying to assemble this furniture without losing at least three screws in the process.",
+            "Pause1": "Good luck to anyone trying to assemble this furniture",
+            "Pause2": "without losing at least three screws in the process.",
+            "pause_timestamp": [
+                2.851700680272109,
+                3.4941860365075526
+            ]
+        }
+    },
+    {
+        "dialog_104": {
+            "text": "The new restaurant downtown has a policy where you pay based on how much you eat, which sounds both innovative and terrifying.",
+            "Pause1": "The new restaurant downtown has a policy",
+            "Pause2": "where you pay based on how much you eat, which sounds both innovative and terrifying.",
+            "pause_timestamp": [
+                5.0285714285714285,
+                5.671056784806872
+            ]
+        }
+    },
+    {
+        "dialog_105": {
+            "text": "Why does it take so long to download a simple app update when the internet speed test claims 500 Mbps?",
+            "Pause1": "Why does it take so long to download",
+            "Pause2": "a simple app update when the internet speed test claims 500 Mbps?",
+            "pause_timestamp": [
+                3.4829931972789114,
+                4.125478553514355
+            ]
+        }
+    },
+    {
+        "dialog_106": {
+            "text": "Thanks to the broken printer, I spent two hours reformatting the document just to meet a five-minute submission deadline.",
+            "Pause1": "Thanks to the broken printer",
+            "Pause2": "I spent two hours reformatting the document just to meet a five-minute submission deadline.",
+            "pause_timestamp": [
+                3.9183673469387754,
+                4.560852703174219
+            ]
+        }
+    },
+    {
+        "dialog_107": {
+            "text": "If you mix red and yellow paint carefully, shouldn't the result be a perfect orange rather than some muddy brown?",
+            "Pause1": "If you mix red and yellow paint carefully",
+            "Pause2": "shouldn't the result be a perfect orange rather than some muddy brown?",
+            "pause_timestamp": [
+                4.919727891156462,
+                5.562213247391906
+            ]
+        }
+    },
+    {
+        "dialog_108": {
+            "text": "My neighbor's cat has been staring at me through the window for twenty minutes - is this a threat or just feline curiosity?",
+            "Pause1": "My neighbor's cat has been staring at me through the window for twenty minutes",
+            "Pause2": "- is this a threat or just feline curiosity?",
+            "pause_timestamp": [
+                2.895238095238095,
+                3.5377234514735387
+            ]
+        }
+    },
+    {
+        "dialog_109": {
+            "text": "It takes time to develop proper coding habits, but rushing through tutorials will only create worse programmers in the long run.",
+            "Pause1": "It takes time to develop proper coding habits",
+            "Pause2": "but rushing through tutorials will only create worse programmers in the long run.",
+            "pause_timestamp": [
+                3.765986394557823,
+                4.408471750793266
+            ]
+        }
+    },
+    {
+        "dialog_110": {
+            "text": "So you're saying the spaceship will reach Mars in six months, despite the fuel system being designed in 1998?",
+            "Pause1": "So you're saying the spaceship will reach Mars",
+            "Pause2": "in six months, despite the fuel system being designed in 1998?",
+            "pause_timestamp": [
+                2.6775510204081634,
+                3.320036376643607
+            ]
+        }
+    },
+    {
+        "dialog_111": {
+            "text": "The concert tickets sold out in three minutes, which makes me question whether the presale was actually exclusive.",
+            "Pause1": "The concert tickets sold out in three minutes",
+            "Pause2": "which makes me question whether the presale was actually exclusive.",
+            "pause_timestamp": [
+                3.5482993197278914,
+                4.190784675963335
+            ]
+        }
+    },
+    {
+        "dialog_112": {
+            "text": "Can we really trust online reviews when half the five-star ratings mention 'free shipping' instead of the product quality?",
+            "Pause1": "Can we really trust online reviews",
+            "Pause2": "when half the five-star ratings mention 'free shipping' instead of the product quality?",
+            "pause_timestamp": [
+                2.8299319727891157,
+                3.4724173290245592
+            ]
+        }
+    },
+    {
+        "dialog_113": {
+            "text": "Because the Wi-Fi password requires special characters, I've written it on a sticky note that now attracts more dust than attention.",
+            "Pause1": "Because the Wi-Fi password requires special characters",
+            "Pause2": "I've written it on a sticky note that now attracts more dust than attention.",
+            "pause_timestamp": [
+                4.310204081632653,
+                4.952689437868097
+            ]
+        }
+    },
+    {
+        "dialog_114": {
+            "text": "This coffee tastes like burnt tires mixed with regret - are you sure it's supposed to be 'artisanal'?",
+            "Pause1": "This coffee tastes like burnt tires mixed with regret",
+            "Pause2": "- are you sure it's supposed to be 'artisanal'?",
+            "pause_timestamp": [
+                4.419047619047619,
+                5.061532975283063
+            ]
+        }
+    },
+    {
+        "dialog_115": {
+            "text": "If clouds are just water vapor, why don't they appear during droughts when we actually need them?",
+            "Pause1": "If clouds are just water vapor",
+            "Pause2": "why don't they appear during droughts when we actually need them?",
+            "pause_timestamp": [
+                5.072108843537415,
+                5.714594199772859
+            ]
+        }
+    },
+    {
+        "dialog_116": {
+            "text": "Apparently, the vending machine now accepts cryptocurrency payments, though I doubt it improves the snack quality.",
+            "Pause1": "Apparently, the vending machine now accepts cryptocurrency payments",
+            "Pause2": "though I doubt it improves the snack quality.",
+            "pause_timestamp": [
+                5.572789115646258,
+                6.215274471881702
+            ]
+        }
+    },
+    {
+        "dialog_117": {
+            "text": "Why does the 'five-second rule' apply to food dropped on the floor, but not to phones that hit the toilet water?",
+            "Pause1": "Why does the 'five-second rule' apply to food dropped on the floor",
+            "Pause2": "but not to phones that hit the toilet water?",
+            "pause_timestamp": [
+                4.048979591836734,
+                4.691464948072178
+            ]
+        }
+    },
+    {
+        "dialog_118": {
+            "text": "The museum prohibits flash photography to protect artifacts, yet allows visitors to use selfie ring lights freely.",
+            "Pause1": "The museum prohibits flash photography to protect artifacts",
+            "Pause2": "yet allows visitors to use selfie ring lights freely.",
+            "pause_timestamp": [
+                3.8748299319727892,
+                4.517315288208232
+            ]
+        }
+    },
+    {
+        "dialog_119": {
+            "text": "So you're telling me the self-checkout machine will charge me full price for produce I couldn't identify?",
+            "Pause1": "So you're telling me the self-checkout machine",
+            "Pause2": "will charge me full price for produce I couldn't identify?",
+            "pause_timestamp": [
+                2.895238095238095,
+                3.5377234514735387
+            ]
+        }
+    },
+    {
+        "dialog_120": {
+            "text": "Good luck explaining to the algorithm that 'I love you' in chat history doesn't mean I want heart-shaped spam forever.",
+            "Pause1": "Good luck explaining to the algorithm",
+            "Pause2": "that 'I love you' in chat history doesn't mean I want heart-shaped spam forever.",
+            "pause_timestamp": [
+                3.1564625850340136,
+                3.798947941269457
+            ]
+        }
+    },
+    {
+        "dialog_121": {
+            "text": "The gym offers a 'free month' promotion, but their cancellation policy requires climbing three flights of stairs to reach the office.",
+            "Pause1": "The gym offers a 'free month' promotion",
+            "Pause2": "but their cancellation policy requires climbing three flights of stairs to reach the office.",
+            "pause_timestamp": [
+                6.378231292517007,
+                7.02071664875245
+            ]
+        }
+    },
+    {
+        "dialog_122": {
+            "text": "Could this Wi-Fi signal strength be any weaker? I'm getting better reception from the neighbor's router three houses away.",
+            "Pause1": "Could this Wi-Fi signal strength be any weaker?",
+            "Pause2": "I'm getting better reception from the neighbor's router three houses away.",
+            "pause_timestamp": [
+                5.289795918367347,
+                5.932281274602791
+            ]
+        }
+    },
+    {
+        "dialog_123": {
+            "text": "Because the self-driving car detected 'unusual activity' and stopped mid-highway, we arrived two hours late.",
+            "Pause1": "Because the self-driving car detected 'unusual activity' and stopped mid-highway",
+            "Pause2": "we arrived two hours late.",
+            "pause_timestamp": [
+                7.836734693877551,
+                8.479220050112994
+            ]
+        }
+    },
+    {
+        "dialog_124": {
+            "text": "It's good to finally meet someone who also thinks pineapple belongs on pizza, despite the culinary 'experts'.",
+            "Pause1": "It's good to finally meet someone",
+            "Pause2": "who also thinks pineapple belongs on pizza, despite the culinary 'experts'.",
+            "pause_timestamp": [
+                2.6775510204081634,
+                3.320036376643607
+            ]
+        }
+    },
+    {
+        "dialog_125": {
+            "text": "The movie theater sells 'medium' popcorn for $12 but allows free refills on soda that costs $8 initially.",
+            "Pause1": "The movie theater sells 'medium' popcorn for $12",
+            "Pause2": "but allows free refills on soda that costs $8 initially.",
+            "pause_timestamp": [
+                5.246258503401361,
+                5.888743859636804
+            ]
+        }
+    },
+    {
+        "dialog_126": {
+            "text": "So the cloud storage service charges extra for backing up photos, which defeats the whole purpose of automatic saving?",
+            "Pause1": "So the cloud storage service charges extra",
+            "Pause2": "for backing up photos, which defeats the whole purpose of automatic saving?",
+            "pause_timestamp": [
+                4.702040816326531,
+                5.344526172561975
+            ]
+        }
+    },
+    {
+        "dialog_127": {
+            "text": "Thanks to the delayed flight, I now have to choose between missing the conference or wearing yesterday's wrinkled shirt.",
+            "Pause1": "Thanks to the delayed flight",
+            "Pause2": "I now have to choose between missing the conference or wearing yesterday's wrinkled shirt.",
+            "pause_timestamp": [
+                1.4802721088435373,
+                2.1227574650789807
+            ]
+        }
+    },
+    {
+        "dialog_128": {
+            "text": "If this 'smart' toaster requires an internet connection to calculate bread darkness, am I really saving any time?",
+            "Pause1": "If this 'smart' toaster requires an internet connection",
+            "Pause2": "to calculate bread darkness, am I really saving any time?",
+            "pause_timestamp": [
+                7.510204081632653,
+                8.152689437868098
+            ]
+        }
+    },
+    {
+        "dialog_129": {
+            "text": "Apparently, the library's 'quiet zone' contains the loudest ticking clock in human history.",
+            "Pause1": "Apparently, the library's 'quiet zone'",
+            "Pause2": "contains the loudest ticking clock in human history.",
+            "pause_timestamp": [
+                3.0476190476190474,
+                3.690104403854491
+            ]
+        }
+    },
+    {
+        "dialog_130": {
+            "text": "Why do we call it 'customer service' when the representative can't actually make any decisions?",
+            "Pause1": "Why do we call it 'customer service'",
+            "Pause2": "when the representative can't actually make any decisions?",
+            "pause_timestamp": [
+                2.938775510204082,
+                3.5812608664395253
+            ]
+        }
+    },
+    {
+        "dialog_131": {
+            "text": "The hiking trail was supposed to take two hours, but these 'moderate' slopes feel more like mountain climbing.",
+            "Pause1": "The hiking trail was supposed to take two hours",
+            "Pause2": "but these 'moderate' slopes feel more like mountain climbing.",
+            "pause_timestamp": [
+                6.704761904761905,
+                7.3472472609973485
+            ]
+        }
+    },
+    {
+        "dialog_132": {
+            "text": "Can you believe they charge extra for seat selection on a flight that already costs half my monthly salary?",
+            "Pause1": "Can you believe they charge extra for seat selection",
+            "Pause2": "on a flight that already costs half my monthly salary?",
+            "pause_timestamp": [
+                5.115646258503402,
+                5.758131614738845
+            ]
+        }
+    },
+    {
+        "dialog_133": {
+            "text": "Because the smart thermostat learned our schedule, it now turns off the heat during dinner - brilliant.",
+            "Pause1": "Because the smart thermostat learned our schedule",
+            "Pause2": "it now turns off the heat during dinner - brilliant.",
+            "pause_timestamp": [
+                2.089795918367347,
+                2.7322812746027907
+            ]
+        }
+    },
+    {
+        "dialog_134": {
+            "text": "It takes time to properly organize files, but auto-sorting them alphabetically just creates worse chaos.",
+            "Pause1": "It takes time to properly organize files",
+            "Pause2": "but auto-sorting them alphabetically just creates worse chaos.",
+            "pause_timestamp": [
+                3.0040816326530613,
+                3.646566988888505
+            ]
+        }
+    },
+    {
+        "dialog_135": {
+            "text": "So you're saying this 'unbreakable' phone screen shatters when dropped from the recommended standing height?",
+            "Pause1": "So you're saying this 'unbreakable' phone screen",
+            "Pause2": "shatters when dropped from the recommended standing height?",
+            "pause_timestamp": [
+                2.742857142857143,
+                3.3853424990925864
+            ]
+        }
+    },
+    {
+        "dialog_136": {
+            "text": "Good luck convincing the bank that 'forgot password' doesn't mean I should spend two hours answering security questions.",
+            "Pause1": "Good luck convincing the bank",
+            "Pause2": "that 'forgot password' doesn't mean I should spend two hours answering security questions.",
+            "pause_timestamp": [
+                4.35374149659864,
+                4.996226852834083
+            ]
+        }
+    },
+    {
+        "dialog_137": {
+            "text": "The camping website recommends 'lightweight tents' for beginners, yet this one requires an engineering degree to assemble.",
+            "Pause1": "The camping website recommends 'lightweight tents' for beginners",
+            "Pause2": "yet this one requires an engineering degree to assemble.",
+            "pause_timestamp": [
+                3.613605442176871,
+                4.256090798412314
+            ]
+        }
+    },
+    {
+        "dialog_138": {
+            "text": "Could the coffee shop's Wi-Fi password be any more complicated? It's like solving a math equation just for latte access.",
+            "Pause1": "Could the coffee shop's Wi-Fi password be any more complicated?",
+            "Pause2": "It's like solving a math equation just for latte access.",
+            "pause_timestamp": [
+                4.048979591836734,
+                4.691464948072178
+            ]
+        }
+    },
+    {
+        "dialog_139": {
+            "text": "If the smart fridge can track milk expiration, why can't it automatically order replacements before we run out?",
+            "Pause1": "If the smart fridge can track milk expiration",
+            "Pause2": "why can't it automatically order replacements before we run out?",
+            "pause_timestamp": [
+                2.3510204081632655,
+                2.993505764398709
+            ]
+        }
+    },
+    {
+        "dialog_140": {
+            "text": "Apparently, the 'eco-friendly' packaging requires scissors and ten minutes to open, which defeats the sustainability purpose.",
+            "Pause1": "Apparently, the 'eco-friendly' packaging requires scissors and ten minutes to open",
+            "Pause2": "which defeats the sustainability purpose.",
+            "pause_timestamp": [
+                10.253061224489796,
+                10.89554658072524
+            ]
+        }
+    },
+    {
+        "dialog_141": {
+            "text": "Why does the 'easy' recipe require six different kitchen appliances I don't own?",
+            "Pause1": "Why does the 'easy' recipe require six different kitchen appliances",
+            "Pause2": "I don't own?",
+            "pause_timestamp": [
+                5.442176870748299,
+                6.084662226983743
+            ]
+        }
+    },
+    {
+        "dialog_142": {
+            "text": "Thanks to the power outage, my 'unsaved' document now exists only in the void of digital oblivion.",
+            "Pause1": "Thanks to the power outage",
+            "Pause2": "my 'unsaved' document now exists only in the void of digital oblivion.",
+            "pause_timestamp": [
+                1.8503401360544218,
+                2.4928254922898656
+            ]
+        }
+    },
+    {
+        "dialog_143": {
+            "text": "So the 'all-you-can-eat' buffet charges extra for the shrimp, which is both ironic and insulting.",
+            "Pause1": "So the 'all-you-can-eat' buffet charges extra for the shrimp",
+            "Pause2": "which is both ironic and insulting.",
+            "pause_timestamp": [
+                3.5047619047619047,
+                4.147247260997348
+            ]
+        }
+    },
+    {
+        "dialog_144": {
+            "text": "The movie streaming service recommends 1080p viewing, but buffers constantly at 480p even with 'premium' subscription.",
+            "Pause1": "The movie streaming service recommends 1080p viewing",
+            "Pause2": "but buffers constantly at 480p even with 'premium' subscription.",
+            "pause_timestamp": [
+                5.333333333333333,
+                5.975818689568777
+            ]
+        }
+    },
+    {
+        "dialog_145": {
+            "text": "Can we really call it 'customer satisfaction' when the survey only asks if we want 10% off next purchase?",
+            "Pause1": "Can we really call it 'customer satisfaction'",
+            "Pause2": "when the survey only asks if we want 10% off next purchase?",
+            "pause_timestamp": [
+                2.742857142857143,
+                3.3853424990925864
+            ]
+        }
+    },
+    {
+        "dialog_146": {
+            "text": "Because the 'smart' watch detected my 'elevated heart rate', it called emergency services during my horror movie marathon.",
+            "Pause1": "Because the 'smart' watch detected my 'elevated heart rate'",
+            "Pause2": "it called emergency services during my horror movie marathon.",
+            "pause_timestamp": [
+                5.355102040816327,
+                5.99758739705177
+            ]
+        }
+    },
+    {
+        "dialog_147": {
+            "text": "It takes time to properly explain this concept, but the explainer video lasts only thirty seconds with cartoon animation.",
+            "Pause1": "It takes time to properly explain this concept",
+            "Pause2": "but the explainer video lasts only thirty seconds with cartoon animation.",
+            "pause_timestamp": [
+                5.98639455782313,
+                6.628879914058573
+            ]
+        }
+    },
+    {
+        "dialog_148": {
+            "text": "The self-checkout machine keeps accusing me of 'unexpected item in bagging area' when I'm just placing groceries there.",
+            "Pause1": "The self-checkout machine keeps accusing me of 'unexpected item in bagging area'",
+            "Pause2": "when I'm just placing groceries there.",
+            "pause_timestamp": [
+                5.899319727891156,
+                6.5418050841266
+            ]
+        }
+    },
+    {
+        "dialog_149": {
+            "text": "So you're telling me this 'lifetime warranty' doesn't cover the product's actual lifetime, just the manufacturer's patience?",
+            "Pause1": "So you're telling me this 'lifetime warranty'",
+            "Pause2": "doesn't cover the product's actual lifetime, just the manufacturer's patience?",
+            "pause_timestamp": [
+                2.6775510204081634,
+                3.320036376643607
+            ]
+        }
+    },
+    {
+        "dialog_150": {
+            "text": "Good luck trying to explain to the parking meter that 'I forgot my wallet' isn't a valid payment method.",
+            "Pause1": "Good luck trying to explain to the parking meter",
+            "Pause2": "that 'I forgot my wallet' isn't a valid payment method.",
+            "pause_timestamp": [
+                2.459863945578231,
+                3.1023493018136747
+            ]
+        }
+    },
+    {
+        "dialog_151": {
+            "text": "Apparently, the 'light exercise' video requires a yoga mat, resistance bands, and prior acrobatic training.",
+            "Pause1": "Apparently, the 'light exercise' video requires a yoga mat",
+            "Pause2": "resistance bands, and prior acrobatic training.",
+            "pause_timestamp": [
+                6.704761904761905,
+                7.3472472609973485
+            ]
+        }
+    },
+    {
+        "dialog_152": {
+            "text": "Why does the 'five-star' hotel room smell like wet carpet and regret from 1997?",
+            "Pause1": "Why does the 'five-star' hotel room smell like wet carpet",
+            "Pause2": "and regret from 1997?",
+            "pause_timestamp": [
+                3.1129251700680274,
+                3.755410526303471
+            ]
+        }
+    },
+    {
+        "dialog_153": {
+            "text": "The cloud storage service says 'unlimited space', but my 4K video upload failed with 'insufficient storage' error.",
+            "Pause1": "The cloud storage service says 'unlimited space'",
+            "Pause2": "but my 4K video upload failed with 'insufficient storage' error.",
+            "pause_timestamp": [
+                4.745578231292517,
+                5.38806358752796
+            ]
+        }
+    },
+    {
+        "dialog_154": {
+            "text": "Could the bus schedule be any more confusing? This 'real-time tracking' app shows vehicles moving backward in time.",
+            "Pause1": "Could the bus schedule be any more confusing?",
+            "Pause2": "This 'real-time tracking' app shows vehicles moving backward in time.",
+            "pause_timestamp": [
+                3.8312925170068026,
+                4.473777873242247
+            ]
+        }
+    },
+    {
+        "dialog_155": {
+            "text": "Because the 'eco-friendly' lightbulb takes five minutes to reach full brightness, I'll just use the old fire hazard instead.",
+            "Pause1": "Because the 'eco-friendly' lightbulb takes five minutes to reach full brightness",
+            "Pause2": "I'll just use the old fire hazard instead.",
+            "pause_timestamp": [
+                6.421768707482993,
+                7.064254063718437
+            ]
+        }
+    },
+    {
+        "dialog_156": {
+            "text": "It's good to finally find a restaurant that serves breakfast all day, except when they run out of eggs at noon.",
+            "Pause1": "It's good to finally find a restaurant that serves breakfast all day",
+            "Pause2": "except when they run out of eggs at noon.",
+            "pause_timestamp": [
+                5.507482993197279,
+                6.149968349432722
+            ]
+        }
+    },
+    {
+        "dialog_157": {
+            "text": "So the 'self-service' kiosk requires employee assistance for every single step - efficiency achieved.",
+            "Pause1": "So the 'self-service' kiosk requires employee assistance",
+            "Pause2": "for every single step - efficiency achieved.",
+            "pause_timestamp": [
+                5.0285714285714285,
+                5.671056784806872
+            ]
+        }
+    },
+    {
+        "dialog_158": {
+            "text": "The online course promises 'lifetime access', but the first video already references outdated technology.",
+            "Pause1": "The online course promises 'lifetime access'",
+            "Pause2": "but the first video already references outdated technology.",
+            "pause_timestamp": [
+                3.4829931972789114,
+                4.125478553514355
+            ]
+        }
+    },
+    {
+        "dialog_159": {
+            "text": "Thanks to the software update, the feature I used daily now requires three additional menus to access.",
+            "Pause1": "Thanks to the software update",
+            "Pause2": "the feature I used daily now requires three additional menus to access.",
+            "pause_timestamp": [
+                4.35374149659864,
+                4.996226852834083
+            ]
+        }
+    },
+    {
+        "dialog_160": {
+            "text": "Can we really call this 'customer support' when the chatbot cycles through the same five responses?",
+            "Pause1": "Can we really call this 'customer support'",
+            "Pause2": "when the chatbot cycles through the same five responses?",
+            "pause_timestamp": [
+                2.742857142857143,
+                3.3853424990925864
+            ]
+        }
+    },
+    {
+        "dialog_161": {
+            "text": "If the 'smart' speaker heard my request, why did it play polka music instead of turning off the lights?",
+            "Pause1": "If the 'smart' speaker heard my request",
+            "Pause2": "why did it play polka music instead of turning off the lights?",
+            "pause_timestamp": [
+                1.9156462585034013,
+                2.558131614738845
+            ]
+        }
+    },
+    {
+        "dialog_162": {
+            "text": "Apparently, the 'light rain' forecast meant 'flood your basement' in actual weather terminology.",
+            "Pause1": "Apparently, the 'light rain' forecast meant 'flood your basement'",
+            "Pause2": "in actual weather terminology.",
+            "pause_timestamp": [
+                5.333333333333333,
+                5.975818689568777
+            ]
+        }
+    },
+    {
+        "dialog_163": {
+            "text": "Why does the 'easy' tax software require a law degree to navigate deductions that should be automatic?",
+            "Pause1": "Why does the 'easy' tax software require a law degree",
+            "Pause2": "to navigate deductions that should be automatic?",
+            "pause_timestamp": [
+                2.851700680272109,
+                3.4941860365075526
+            ]
+        }
+    },
+    {
+        "dialog_164": {
+            "text": "The fitness tracker says I've reached my step goal, but it doesn't count when I pace anxiously waiting for software updates.",
+            "Pause1": "The fitness tracker says I've reached my step goal",
+            "Pause2": "but it doesn't count when I pace anxiously waiting for software updates.",
+            "pause_timestamp": [
+                1.763265306122449,
+                2.4057506623578924
+            ]
+        }
+    },
+    {
+        "dialog_165": {
+            "text": "So the 'unlimited data' plan actually means 'unlimited throttling after 5GB usage' - clever wordplay.",
+            "Pause1": "So the 'unlimited data' plan actually means",
+            "Pause2": "'unlimited throttling after 5GB usage' - clever wordplay.",
+            "pause_timestamp": [
+                2.742857142857143,
+                3.3853424990925864
+            ]
+        }
+    },
+    {
+        "dialog_166": {
+            "text": "Good luck explaining to the automated system that 'other' is sometimes a valid answer choice.",
+            "Pause1": "Good luck explaining to the automated system",
+            "Pause2": "that 'other' is sometimes a valid answer choice.",
+            "pause_timestamp": [
+                1.4802721088435373,
+                2.1227574650789807
+            ]
+        }
+    },
+    {
+        "dialog_167": {
+            "text": "Because the 'quiet' air conditioner sounds like a jet engine, I'll just open the window and enjoy nature's noise.",
+            "Pause1": "Because the 'quiet' air conditioner sounds like a jet engine",
+            "Pause2": "I'll just open the window and enjoy nature's noise.",
+            "pause_timestamp": [
+                5.659863945578231,
+                6.302349301813675
+            ]
+        }
+    },
+    {
+        "dialog_168": {
+            "text": "It takes time to properly configure these settings, but the tutorial video skips to advanced features at 0:30.",
+            "Pause1": "It takes time to properly configure these settings",
+            "Pause2": "but the tutorial video skips to advanced features at 0:30.",
+            "pause_timestamp": [
+                4.136054421768708,
+                4.778539778004151
+            ]
+        }
+    },
+    {
+        "dialog_169": {
+            "text": "The 'organic' juice box contains 12% actual fruit, which somehow qualifies as 'natural' according to regulations.",
+            "Pause1": "The 'organic' juice box contains 12% actual fruit",
+            "Pause2": "which somehow qualifies as 'natural' according to regulations.",
+            "pause_timestamp": [
+                4.136054421768708,
+                4.778539778004151
+            ]
+        }
+    },
+    {
+        "dialog_170": {
+            "text": "Could the self-driving car's route avoid every single pothole by swerving into oncoming traffic?",
+            "Pause1": "Could the self-driving car's route avoid every single pothole",
+            "Pause2": "by swerving into oncoming traffic?",
+            "pause_timestamp": [
+                3.0693877551020408,
+                3.7118731113374843
+            ]
+        }
+    },
+    {
+        "dialog_171": {
+            "text": "So you're telling me this 'instant' oatmeal requires three minutes in the microwave, which makes it slower than regular cooking?",
+            "Pause1": "So you're telling me this 'instant' oatmeal requires three minutes",
+            "Pause2": "in the microwave, which makes it slower than regular cooking?",
+            "pause_timestamp": [
+                3.1564625850340136,
+                3.798947941269457
+            ]
+        }
+    },
+    {
+        "dialog_172": {
+            "text": "Thanks to the 'smart' thermostat learning my habits, it now turns off the AC during my afternoon panic sweats.",
+            "Pause1": "Thanks to the 'smart' thermostat learning my habits",
+            "Pause2": "it now turns off the AC during my afternoon panic sweats.",
+            "pause_timestamp": [
+                3.178231292517007,
+                3.8207166487524504
+            ]
+        }
+    },
+    {
+        "dialog_173": {
+            "text": "Apparently, the 'light workout' video requires prior ownership of kettlebells I can't even lift.",
+            "Pause1": "Apparently, the 'light workout' video requires prior ownership",
+            "Pause2": "of kettlebells I can't even lift.",
+            "pause_timestamp": [
+                5.507482993197279,
+                6.149968349432722
+            ]
+        }
+    },
+    {
+        "dialog_174": {
+            "text": "Why does the 'customer satisfaction' survey only ask if I want 15% off my next purchase instead of actual feedback?",
+            "Pause1": "Why does the 'customer satisfaction' survey only ask",
+            "Pause2": "if I want 15% off my next purchase instead of actual feedback?",
+            "pause_timestamp": [
+                7.96734693877551,
+                8.609832295010953
+            ]
+        }
+    },
+    {
+        "dialog_175": {
+            "text": "The 'eco-friendly' laundry detergent requires hot water to work properly, which ironically increases energy consumption.",
+            "Pause1": "The 'eco-friendly' laundry detergent requires hot water to work properly",
+            "Pause2": "which ironically increases energy consumption.",
+            "pause_timestamp": [
+                5.681632653061224,
+                6.324118009296668
+            ]
+        }
+    },
+    {
+        "dialog_176": {
+            "text": "Can we really call this 'high-speed internet' when loading a text document takes five minutes?",
+            "Pause1": "Can we really call this 'high-speed internet'",
+            "Pause2": "when loading a text document takes five minutes?",
+            "pause_timestamp": [
+                5.616326530612245,
+                6.258811886847688
+            ]
+        }
+    },
+    {
+        "dialog_177": {
+            "text": "Because the 'smart' fridge detected 'unusual usage patterns', it ordered three additional cases of milk I didn't request.",
+            "Pause1": "Because the 'smart' fridge detected 'unusual usage patterns'",
+            "Pause2": "it ordered three additional cases of milk I didn't request.",
+            "pause_timestamp": [
+                4.0272108843537415,
+                4.669696240589185
+            ]
+        }
+    },
+    {
+        "dialog_178": {
+            "text": "It's good to finally find a phone case that protects against drops, except when dropped from my actual hand height.",
+            "Pause1": "It's good to finally find a phone case that protects against drops",
+            "Pause2": "except when dropped from my actual hand height.",
+            "pause_timestamp": [
+                4.35374149659864,
+                4.996226852834083
+            ]
+        }
+    },
+    {
+        "dialog_179": {
+            "text": "So the 'all-inclusive' resort charges extra for the basic room view, which makes the marketing rather misleading.",
+            "Pause1": "So the 'all-inclusive' resort charges extra for the basic room view",
+            "Pause2": "which makes the marketing rather misleading.",
+            "pause_timestamp": [
+                3.657142857142857,
+                4.2996282133783
+            ]
+        }
+    },
+    {
+        "dialog_180": {
+            "text": "The 'self-service' printer requires seven steps to complete a single-page print job, which improves efficiency how?",
+            "Pause1": "The 'self-service' printer requires seven steps to complete a single-page print job",
+            "Pause2": "which improves efficiency how?",
+            "pause_timestamp": [
+                5.072108843537415,
+                5.714594199772859
+            ]
+        }
+    },
+    {
+        "dialog_181": {
+            "text": "Good luck convincing the automated system that my answer doesn't fit any of the predetermined response categories.",
+            "Pause1": "Good luck convincing the automated system",
+            "Pause2": "that my answer doesn't fit any of the predetermined response categories.",
+            "pause_timestamp": [
+                2.307482993197279,
+                2.9499683494327225
+            ]
+        }
+    },
+    {
+        "dialog_182": {
+            "text": "Apparently, the 'light rain' warning meant 'create a new indoor swimming pool' according to my basement's reaction.",
+            "Pause1": "Apparently, the 'light rain' warning meant 'create a new indoor swimming pool'",
+            "Pause2": "according to my basement's reaction.",
+            "pause_timestamp": [
+                5.463945578231293,
+                6.1064309344667365
+            ]
+        }
+    },
+    {
+        "dialog_183": {
+            "text": "Why does the 'easy' tax preparation software require me to prove my identity twelve times?",
+            "Pause1": "Why does the 'easy' tax preparation software",
+            "Pause2": "require me to prove my identity twelve times?",
+            "pause_timestamp": [
+                2.307482993197279,
+                2.9499683494327225
+            ]
+        }
+    },
+    {
+        "dialog_184": {
+            "text": "The fitness app says I've burned 500 calories, but that must include the emotional stress of wearing workout clothes.",
+            "Pause1": "The fitness app says I've burned 500 calories",
+            "Pause2": "but that must include the emotional stress of wearing workout clothes.",
+            "pause_timestamp": [
+                3.0476190476190474,
+                3.690104403854491
+            ]
+        }
+    },
+    {
+        "dialog_185": {
+            "text": "So the 'unlimited cloud storage' actually means 'store everything except video files' - very specific limitations.",
+            "Pause1": "So the 'unlimited cloud storage' actually means",
+            "Pause2": "'store everything except video files' - very specific limitations.",
+            "pause_timestamp": [
+                3.0476190476190474,
+                3.690104403854491
+            ]
+        }
+    },
+    {
+        "dialog_186": {
+            "text": "Could the streaming service's recommendation algorithm be any more repetitive? I've seen the same six shows for three years.",
+            "Pause1": "Could the streaming service's recommendation algorithm be any more repetitive?",
+            "Pause2": "I've seen the same six shows for three years.",
+            "pause_timestamp": [
+                5.877551020408164,
+                6.520036376643607
+            ]
+        }
+    },
+    {
+        "dialog_187": {
+            "text": "Because the 'smart' watch detected 'abnormal heart activity', it called my emergency contact during karaoke night.",
+            "Pause1": "Because the 'smart' watch detected 'abnormal heart activity'",
+            "Pause2": "it called my emergency contact during karaoke night.",
+            "pause_timestamp": [
+                6.160544217687074,
+                6.803029573922518
+            ]
+        }
+    },
+    {
+        "dialog_188": {
+            "text": "It takes time to properly explain this technical issue, but the support chatbot only offers emoji responses.",
+            "Pause1": "It takes time to properly explain this technical issue",
+            "Pause2": "but the support chatbot only offers emoji responses.",
+            "pause_timestamp": [
+                2.5251700680272107,
+                3.1676554242626542
+            ]
+        }
+    },
+    {
+        "dialog_189": {
+            "text": "The 'organic' snack contains 43 ingredients I can't pronounce, which somehow qualifies as 'natural'.",
+            "Pause1": "The 'organic' snack contains 43 ingredients I can't pronounce",
+            "Pause2": "which somehow qualifies as 'natural'.",
+            "pause_timestamp": [
+                6.095238095238095,
+                6.7377234514735385
+            ]
+        }
+    },
+    {
+        "dialog_190": {
+            "text": "Thanks to the 'smart' thermostat learning my schedule, it now preheats the house at 3AM for no reason.",
+            "Pause1": "Thanks to the 'smart' thermostat learning my schedule",
+            "Pause2": "it now preheats the house at 3AM for no reason.",
+            "pause_timestamp": [
+                4.484353741496599,
+                5.126839097732042
+            ]
+        }
+    },
+    {
+        "dialog_191": {
+            "text": "So the 'light exercise' video requires equipment I need a second mortgage to purchase - very accessible.",
+            "Pause1": "So the 'light exercise' video requires equipment",
+            "Pause2": "I need a second mortgage to purchase - very accessible.",
+            "pause_timestamp": [
+                3.4829931972789114,
+                4.125478553514355
+            ]
+        }
+    },
+    {
+        "dialog_192": {
+            "text": "Apparently, the 'customer satisfaction' survey only exists to collect email addresses for spam campaigns.",
+            "Pause1": "Apparently, the 'customer satisfaction' survey only exists",
+            "Pause2": "to collect email addresses for spam campaigns.",
+            "pause_timestamp": [
+                7.096598639455783,
+                7.739083995691226
+            ]
+        }
+    },
+    {
+        "dialog_193": {
+            "text": "Why does the 'five-star' hotel room view consist entirely of a concrete wall with one struggling vine?",
+            "Pause1": "Why does the 'five-star' hotel room view consist entirely",
+            "Pause2": "of a concrete wall with one struggling vine?",
+            "pause_timestamp": [
+                3.4829931972789114,
+                4.125478553514355
+            ]
+        }
+    },
+    {
+        "dialog_194": {
+            "text": "The 'eco-friendly' packaging contains plastic wrap sealed with adhesive I can't remove without scissors.",
+            "Pause1": "The 'eco-friendly' packaging contains plastic wrap",
+            "Pause2": "sealed with adhesive I can't remove without scissors.",
+            "pause_timestamp": [
+                2.895238095238095,
+                3.5377234514735387
+            ]
+        }
+    },
+    {
+        "dialog_195": {
+            "text": "Can we really call this 'high-speed internet' when buffering a 10-minute video takes longer than watching it?",
+            "Pause1": "Can we really call this 'high-speed internet'",
+            "Pause2": "when buffering a 10-minute video takes longer than watching it?",
+            "pause_timestamp": [
+                2.5251700680272107,
+                3.1676554242626542
+            ]
+        }
+    },
+    {
+        "dialog_196": {
+            "text": "Because the 'smart' fridge detected motion, it turned on all lights and played music at 3AM - very helpful.",
+            "Pause1": "Because the 'smart' fridge detected motion",
+            "Pause2": "it turned on all lights and played music at 3AM - very helpful.",
+            "pause_timestamp": [
+                3.330612244897959,
+                3.9730976011334027
+            ]
+        }
+    },
+    {
+        "dialog_197": {
+            "text": "It's good to finally find a phone plan with 'unlimited data', except when using more than 2GB causes 1G speeds.",
+            "Pause1": "It's good to finally find a phone plan with 'unlimited data'",
+            "Pause2": "except when using more than 2GB causes 1G speeds.",
+            "pause_timestamp": [
+                5.137414965986395,
+                5.779900322221838
+            ]
+        }
+    },
+    {
+        "dialog_198": {
+            "text": "So the 'self-service' kiosk requires assistance for every touch-screen action, which definitely reduces staff workload.",
+            "Pause1": "So the 'self-service' kiosk requires assistance for every touch-screen action",
+            "Pause2": "which definitely reduces staff workload.",
+            "pause_timestamp": [
+                5.006802721088436,
+                5.649288077323879
+            ]
+        }
+    },
+    {
+        "dialog_199": {
+            "text": "The online course says 'lifetime access', but the platform will shut down next month according to their blog post.",
+            "Pause1": "The online course says 'lifetime access'",
+            "Pause2": "but the platform will shut down next month according to their blog post.",
+            "pause_timestamp": [
+                3.8748299319727892,
+                4.517315288208232
+            ]
+        }
+    },
+    {
+        "dialog_200": {
+            "text": "Good luck trying to explain to the automated system that 'none of the above' is sometimes the correct answer.",
+            "Pause1": "Good luck trying to explain to the automated system",
+            "Pause2": "that 'none of the above' is sometimes the correct answer.",
+            "pause_timestamp": [
+                4.854421768707483,
+                5.496907124942926
+            ]
+        }
+    }
+]

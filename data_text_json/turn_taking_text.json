@@ -1,0 +1,1002 @@
+{
+    "dialog_1": [
+        {
+            "text": "I'm thinking about learning a new language, any suggestions on which one to choose?"
+        }
+    ],
+    "dialog_2": [
+        {
+            "text": "How do I improve my public speaking skills? I get so nervous in front of crowds."
+        }
+    ],
+    "dialog_3": [
+        {
+            "text": "Can you recommend some good books for someone who loves historical fiction?"
+        }
+    ],
+    "dialog_4": [
+        {
+            "text": "What's the best way to stay motivated when working from home?"
+        }
+    ],
+    "dialog_5": [
+        {
+            "text": "I'm planning a trip to Japan next year. Any tips for traveling there?"
+        }
+    ],
+    "dialog_6": [
+        {
+            "text": "Do you have any advice for someone trying to eat healthier?"
+        }
+    ],
+    "dialog_7": [
+        {
+            "text": "What are some fun activities to do with kids during the weekend?"
+        }
+    ],
+    "dialog_8": [
+        {
+            "text": "How can I manage stress better? Lately, I've been feeling overwhelmed."
+        }
+    ],
+    "dialog_9": [
+        {
+            "text": "I want to start exercising regularly but don't know where to begin. Any ideas?"
+        }
+    ],
+    "dialog_10": [
+        {
+            "text": "Any tips for saving money while still enjoying life?"
+        }
+    ],
+    "dialog_11": [
+        {
+            "text": "I'm interested in starting a blog. What topics should I consider writing about?"
+        }
+    ],
+    "dialog_12": [
+        {
+            "text": "How do I prepare for a job interview effectively?"
+        }
+    ],
+    "dialog_13": [
+        {
+            "text": "I'm looking for ways to volunteer in my community. Where should I start?"
+        }
+    ],
+    "dialog_14": [
+        {
+            "text": "What's a good strategy for managing my time better?"
+        }
+    ],
+    "dialog_15": [
+        {
+            "text": "I'm considering adopting a pet. What should I think about before making this decision?"
+        }
+    ],
+    "dialog_16": [
+        {
+            "text": "How can I improve my photography skills?"
+        }
+    ],
+    "dialog_17": [
+        {
+            "text": "I want to read more books. How can I find the time?"
+        }
+    ],
+    "dialog_18": [
+        {
+            "text": "What are some tips for improving my sleep quality?"
+        }
+    ],
+    "dialog_19": [
+        {
+            "text": "I'm interested in learning more about investing. Where should I start?"
+        }
+    ],
+    "dialog_20": [
+        {
+            "text": "How can I make new friends in a new city?"
+        }
+    ],
+    "dialog_21": [
+        {
+            "text": "I'm thinking of starting a small business. What are some important things to consider?"
+        }
+    ],
+    "dialog_22": [
+        {
+            "text": "How can I improve my cooking skills?"
+        }
+    ],
+    "dialog_23": [
+        {
+            "text": "I want to travel more, but I'm on a tight budget. Any tips?"
+        }
+    ],
+    "dialog_24": [
+        {
+            "text": "How can I become more organized in my daily life?"
+        }
+    ],
+    "dialog_25": [
+        {
+            "text": "I'm struggling with my work-life balance. Any advice?"
+        }
+    ],
+    "dialog_26": [
+        {
+            "text": "I want to learn a new instrument. Which one would you recommend for a beginner?"
+        }
+    ],
+    "dialog_27": [
+        {
+            "text": "How can I improve my writing skills?"
+        }
+    ],
+    "dialog_28": [
+        {
+            "text": "I'm considering going back to school. What factors should I consider?"
+        }
+    ],
+    "dialog_29": [
+        {
+            "text": "How can I be more environmentally friendly in my daily life?"
+        }
+    ],
+    "dialog_30": [
+        {
+            "text": "I'm interested in starting a garden. Any tips for a beginner?"
+        }
+    ],
+    "dialog_31": [
+        {
+            "text": "How can I improve my memory?"
+        }
+    ],
+    "dialog_32": [
+        {
+            "text": "I want to learn more about art history. Where should I start?"
+        }
+    ],
+    "dialog_33": [
+        {
+            "text": "How can I be more productive at work?"
+        }
+    ],
+    "dialog_34": [
+        {
+            "text": "I'm interested in learning a new sport. Any recommendations?"
+        }
+    ],
+    "dialog_35": [
+        {
+            "text": "How can I improve my social media presence?"
+        }
+    ],
+    "dialog_36": [
+        {
+            "text": "I want to learn more about astronomy. Where should I start?"
+        }
+    ],
+    "dialog_37": [
+        {
+            "text": "How can I improve my critical thinking skills?"
+        }
+    ],
+    "dialog_38": [
+        {
+            "text": "I'm interested in learning more about psychology. Any tips?"
+        }
+    ],
+    "dialog_39": [
+        {
+            "text": "How can I improve my problem-solving skills?"
+        }
+    ],
+    "dialog_40": [
+        {
+            "text": "I want to learn more about world history. Where should I start?"
+        }
+    ],
+    "dialog_41": [
+        {
+            "text": "How can I improve my leadership skills?"
+        }
+    ],
+    "dialog_42": [
+        {
+            "text": "I'm interested in learning more about philosophy. Any tips?"
+        }
+    ],
+    "dialog_43": [
+        {
+            "text": "How can I improve my negotiation skills?"
+        }
+    ],
+    "dialog_44": [
+        {
+            "text": "I want to learn more about economics. Where should I start?"
+        }
+    ],
+    "dialog_45": [
+        {
+            "text": "How can I improve my creativity?"
+        }
+    ],
+    "dialog_46": [
+        {
+            "text": "I'm interested in learning more about biology. Any tips?"
+        }
+    ],
+    "dialog_47": [
+        {
+            "text": "How can I improve my decision-making skills?"
+        }
+    ],
+    "dialog_48": [
+        {
+            "text": "I want to learn more about geography. Where should I start?"
+        }
+    ],
+    "dialog_49": [
+        {
+            "text": "How can I improve my time management skills?"
+        }
+    ],
+    "dialog_50": [
+        {
+            "text": "I'm interested in learning more about chemistry. Any tips?"
+        }
+    ],
+    "dialog_51": [
+        {
+            "text": "How can I improve my communication skills?"
+        }
+    ],
+    "dialog_52": [
+        {
+            "text": "I want to learn more about physics. Where should I start?"
+        }
+    ],
+    "dialog_53": [
+        {
+            "text": "How can I improve my emotional intelligence?"
+        }
+    ],
+    "dialog_54": [
+        {
+            "text": "I'm interested in learning more about computer science. Any tips?"
+        }
+    ],
+    "dialog_55": [
+        {
+            "text": "How can I improve my financial literacy?"
+        }
+    ],
+    "dialog_56": [
+        {
+            "text": "I want to learn more about geology. Where should I start?"
+        }
+    ],
+    "dialog_57": [
+        {
+            "text": "How can I improve my teamwork skills?"
+        }
+    ],
+    "dialog_58": [
+        {
+            "text": "I'm interested in learning more about sociology. Any tips?"
+        }
+    ],
+    "dialog_59": [
+        {
+            "text": "How can I improve my conflict resolution skills?"
+        }
+    ],
+    "dialog_60": [
+        {
+            "text": "I want to learn more about political science. Where should I start?"
+        }
+    ],
+    "dialog_61": [
+        {
+            "text": "How can I improve my networking skills?"
+        }
+    ],
+    "dialog_62": [
+        {
+            "text": "I'm interested in learning more about environmental science. Any tips?"
+        }
+    ],
+    "dialog_63": [
+        {
+            "text": "How can I improve my project management skills?"
+        }
+    ],
+    "dialog_64": [
+        {
+            "text": "I want to learn more about linguistics. Where should I start?"
+        }
+    ],
+    "dialog_65": [
+        {
+            "text": "How can I improve my adaptability?"
+        }
+    ],
+    "dialog_66": [
+        {
+            "text": "I'm interested in learning more about anthropology. Any tips?"
+        }
+    ],
+    "dialog_67": [
+        {
+            "text": "How can I improve my presentation skills?"
+        }
+    ],
+    "dialog_68": [
+        {
+            "text": "I want to learn more about astronomy. Where should I start?"
+        }
+    ],
+    "dialog_69": [
+        {
+            "text": "How can I improve my resilience?"
+        }
+    ],
+    "dialog_70": [
+        {
+            "text": "I'm interested in learning more about psychology. Any tips?"
+        }
+    ],
+    "dialog_71": [
+        {
+            "text": "How can I improve my problem-solving skills?"
+        }
+    ],
+    "dialog_72": [
+        {
+            "text": "I want to learn more about world history. Where should I start?"
+        }
+    ],
+    "dialog_73": [
+        {
+            "text": "How can I improve my leadership skills?"
+        }
+    ],
+    "dialog_74": [
+        {
+            "text": "I'm interested in learning more about philosophy. Any tips?"
+        }
+    ],
+    "dialog_75": [
+        {
+            "text": "How can I improve my negotiation skills?"
+        }
+    ],
+    "dialog_76": [
+        {
+            "text": "I want to learn more about economics. Where should I start?"
+        }
+    ],
+    "dialog_77": [
+        {
+            "text": "How can I improve my creativity?"
+        }
+    ],
+    "dialog_78": [
+        {
+            "text": "I'm interested in learning more about biology. Any tips?"
+        }
+    ],
+    "dialog_79": [
+        {
+            "text": "How can I improve my decision-making skills?"
+        }
+    ],
+    "dialog_80": [
+        {
+            "text": "I want to learn more about geography. Where should I start?"
+        }
+    ],
+    "dialog_81": [
+        {
+            "text": "How can I improve my time management skills?"
+        }
+    ],
+    "dialog_82": [
+        {
+            "text": "I'm interested in learning more about chemistry. Any tips?"
+        }
+    ],
+    "dialog_83": [
+        {
+            "text": "How can I improve my communication skills?"
+        }
+    ],
+    "dialog_84": [
+        {
+            "text": "I want to learn more about physics. Where should I start?"
+        }
+    ],
+    "dialog_85": [
+        {
+            "text": "How can I improve my emotional intelligence?"
+        }
+    ],
+    "dialog_86": [
+        {
+            "text": "I'm interested in learning more about computer science. Any tips?"
+        }
+    ],
+    "dialog_87": [
+        {
+            "text": "How can I improve my financial literacy?"
+        }
+    ],
+    "dialog_88": [
+        {
+            "text": "I want to learn more about geology. Where should I start?"
+        }
+    ],
+    "dialog_89": [
+        {
+            "text": "How can I improve my public speaking confidence?"
+        }
+    ],
+    "dialog_90": [
+        {
+            "text": "I want to learn more about art history. Where should I start?"
+        }
+    ],
+    "dialog_91": [
+        {
+            "text": "How can I improve my critical thinking skills?"
+        }
+    ],
+    "dialog_92": [
+        {
+            "text": "I'm interested in learning more about psychology. Any tips?"
+        }
+    ],
+    "dialog_93": [
+        {
+            "text": "How can I improve my problem-solving skills?"
+        }
+    ],
+    "dialog_94": [
+        {
+            "text": "I want to learn more about world history. Where should I start?"
+        }
+    ],
+    "dialog_95": [
+        {
+            "text": "How can I improve my leadership skills?"
+        }
+    ],
+    "dialog_96": [
+        {
+            "text": "I'm interested in learning more about philosophy. Any tips?"
+        }
+    ],
+    "dialog_97": [
+        {
+            "text": "How can I improve my negotiation skills?"
+        }
+    ],
+    "dialog_98": [
+        {
+            "text": "I want to learn more about economics. Where should I start?"
+        }
+    ],
+    "dialog_99": [
+        {
+            "text": "How can I improve my creativity?"
+        }
+    ],
+    "dialog_100": [
+        {
+            "text": "I'm interested in learning more about biology. Any tips?"
+        }
+    ],
+    "dialog_101": [
+        {
+            "text": "Why do stars twinkle instead of shining steadily?"
+        }
+    ],
+    "dialog_102": [
+        {
+            "text": "If you could time travel to any historical event, where would you go?"
+        }
+    ],
+    "dialog_103": [
+        {
+            "text": "How does a black hole's gravity affect time itself?"
+        }
+    ],
+    "dialog_104": [
+        {
+            "text": "What makes a joke land differently in various cultures?"
+        }
+    ],
+    "dialog_105": [
+        {
+            "text": "Could you describe the taste of a sunset to someone blind?"
+        }
+    ],
+    "dialog_106": [
+        {
+            "text": "Where should we draw the line between art and vandalism?"
+        }
+    ],
+    "dialog_107": [
+        {
+            "text": "When did you last change your mind about something important?"
+        }
+    ],
+    "dialog_108": [
+        {
+            "text": "What's the most underrated skill in modern relationships?"
+        }
+    ],
+    "dialog_109": [
+        {
+            "text": "How would you explain the concept of irony to a child?"
+        }
+    ],
+    "dialog_110": [
+        {
+            "text": "Why do some languages have complex grammar systems?"
+        }
+    ],
+    "dialog_111": [
+        {
+            "text": "What if humans could hibernate like bears?"
+        }
+    ],
+    "dialog_112": [
+        {
+            "text": "Where do forgotten memories go in our brains?"
+        }
+    ],
+    "dialog_113": [
+        {
+            "text": "When does adaptation become cultural appropriation?"
+        }
+    ],
+    "dialog_114": [
+        {
+            "text": "How do clouds hold water without falling?"
+        }
+    ],
+    "dialog_115": [
+        {
+            "text": "What makes a melody unforgettable?"
+        }
+    ],
+    "dialog_116": [
+        {
+            "text": "Could you survive on Mars with current technology?"
+        }
+    ],
+    "dialog_117": [
+        {
+            "text": "Why do we yawn when tired or bored?"
+        }
+    ],
+    "dialog_118": [
+        {
+            "text": "What's the best way to measure true happiness?"
+        }
+    ],
+    "dialog_119": [
+        {
+            "text": "How would you describe silence to someone who's never heard it?"
+        }
+    ],
+    "dialog_120": [
+        {
+            "text": "When does a machine become conscious?"
+        }
+    ],
+    "dialog_121": [
+        {
+            "text": "Where does creativity originate in the human brain?"
+        }
+    ],
+    "dialog_122": [
+        {
+            "text": "What makes a villain truly compelling in stories?"
+        }
+    ],
+    "dialog_123": [
+        {
+            "text": "Why do some people enjoy spicy food despite the pain?"
+        }
+    ],
+    "dialog_124": [
+        {
+            "text": "How does music affect plant growth?"
+        }
+    ],
+    "dialog_125": [
+        {
+            "text": "If you could create a new holiday, what would it celebrate?"
+        }
+    ],
+    "dialog_126": [
+        {
+            "text": "What's the most important lesson history keeps teaching us?"
+        }
+    ],
+    "dialog_127": [
+        {
+            "text": "When does technology become an extension of ourselves?"
+        }
+    ],
+    "dialog_128": [
+        {
+            "text": "How would you explain colors to someone born without sight?"
+        }
+    ],
+    "dialog_129": [
+        {
+            "text": "Where should we set ethical boundaries in AI development?"
+        }
+    ],
+    "dialog_130": [
+        {
+            "text": "Why do certain scents trigger vivid memories?"
+        }
+    ],
+    "dialog_131": [
+        {
+            "text": "What makes a good conspiracy theory believable?"
+        }
+    ],
+    "dialog_132": [
+        {
+            "text": "Could you design a better system for education?"
+        }
+    ],
+    "dialog_133": [
+        {
+            "text": "How does laughter heal both mind and body?"
+        }
+    ],
+    "dialog_134": [
+        {
+            "text": "When does freedom of speech become dangerous?"
+        }
+    ],
+    "dialog_135": [
+        {
+            "text": "What's the strangest natural phenomenon you know?"
+        }
+    ],
+    "dialog_136": [
+        {
+            "text": "Why do humans fear the dark?"
+        }
+    ],
+    "dialog_137": [
+        {
+            "text": "If you could speak every language fluently, what would you do?"
+        }
+    ],
+    "dialog_138": [
+        {
+            "text": "How do different cultures define beauty?"
+        }
+    ],
+    "dialog_139": [
+        {
+            "text": "Where does the line blur between genius and madness?"
+        }
+    ],
+    "dialog_140": [
+        {
+            "text": "What makes a perfect day scientifically?"
+        }
+    ],
+    "dialog_141": [
+        {
+            "text": "When does nostalgia become harmful?"
+        }
+    ],
+    "dialog_142": [
+        {
+            "text": "How would you explain the internet to someone from 1800s?"
+        }
+    ],
+    "dialog_143": [
+        {
+            "text": "Why do some people hate cilantro?"
+        }
+    ],
+    "dialog_144": [
+        {
+            "text": "What's the most efficient way to solve climate change?"
+        }
+    ],
+    "dialog_145": [
+        {
+            "text": "Could you describe the feeling of nostalgia without using metaphors?"
+        }
+    ],
+    "dialog_146": [
+        {
+            "text": "Where do dreams come from?"
+        }
+    ],
+    "dialog_147": [
+        {
+            "text": "When does curiosity become obsession?"
+        }
+    ],
+    "dialog_148": [
+        {
+            "text": "How does gravity work at quantum scales?"
+        }
+    ],
+    "dialog_149": [
+        {
+            "text": "What makes a voice pleasant to hear?"
+        }
+    ],
+    "dialog_150": [
+        {
+            "text": "Why do we find symmetry aesthetically pleasing?"
+        }
+    ],
+    "dialog_151": [
+        {
+            "text": "If you could create a new sense, what would it be?"
+        }
+    ],
+    "dialog_152": [
+        {
+            "text": "How do different languages shape thinking patterns?"
+        }
+    ],
+    "dialog_153": [
+        {
+            "text": "Where should we draw ethical lines in genetic engineering?"
+        }
+    ],
+    "dialog_154": [
+        {
+            "text": "When does a collection become hoarding?"
+        }
+    ],
+    "dialog_155": [
+        {
+            "text": "What's the most fascinating unsolved mystery in science?"
+        }
+    ],
+    "dialog_156": [
+        {
+            "text": "Why do some people prefer cold weather?"
+        }
+    ],
+    "dialog_157": [
+        {
+            "text": "How would you describe the taste of music?"
+        }
+    ],
+    "dialog_158": [
+        {
+            "text": "What makes a good lie believable?"
+        }
+    ],
+    "dialog_159": [
+        {
+            "text": "Could you design a better currency system?"
+        }
+    ],
+    "dialog_160": [
+        {
+            "text": "When does a tradition become outdated?"
+        }
+    ],
+    "dialog_161": [
+        {
+            "text": "Where does intuition come from?"
+        }
+    ],
+    "dialog_162": [
+        {
+            "text": "How does the placebo effect work?"
+        }
+    ],
+    "dialog_163": [
+        {
+            "text": "Why do we cry when emotionally overwhelmed?"
+        }
+    ],
+    "dialog_164": [
+        {
+            "text": "What makes a good metaphor effective?"
+        }
+    ],
+    "dialog_165": [
+        {
+            "text": "If you could teleport anywhere, where would you go first?"
+        }
+    ],
+    "dialog_166": [
+        {
+            "text": "How do different cultures handle grief?"
+        }
+    ],
+    "dialog_167": [
+        {
+            "text": "When does privacy become secrecy?"
+        }
+    ],
+    "dialog_168": [
+        {
+            "text": "What's the most important scientific discovery of the 21st century?"
+        }
+    ],
+    "dialog_169": [
+        {
+            "text": "Why do certain patterns calm the human mind?"
+        }
+    ],
+    "dialog_170": [
+        {
+            "text": "How would you explain the concept of time to an alien?"
+        }
+    ],
+    "dialog_171": [
+        {
+            "text": "Could you design a better voting system?"
+        }
+    ],
+    "dialog_172": [
+        {
+            "text": "Where do moral values originate?"
+        }
+    ],
+    "dialog_173": [
+        {
+            "text": "When does humor cross the line into cruelty?"
+        }
+    ],
+    "dialog_174": [
+        {
+            "text": "What makes a good villain redeemable?"
+        }
+    ],
+    "dialog_175": [
+        {
+            "text": "How does the brain process optical illusions?"
+        }
+    ],
+    "dialog_176": [
+        {
+            "text": "Why do people enjoy horror movies?"
+        }
+    ],
+    "dialog_177": [
+        {
+            "text": "If you could change one historical event, which would it be?"
+        }
+    ],
+    "dialog_178": [
+        {
+            "text": "What's the most important life skill not taught in schools?"
+        }
+    ],
+    "dialog_179": [
+        {
+            "text": "When does competition become unhealthy?"
+        }
+    ],
+    "dialog_180": [
+        {
+            "text": "How would you describe the color blue without using color words?"
+        }
+    ],
+    "dialog_181": [
+        {
+            "text": "Where does the line blur between fashion and armor?"
+        }
+    ],
+    "dialog_182": [
+        {
+            "text": "Why do some people dislike rain?"
+        }
+    ],
+    "dialog_183": [
+        {
+            "text": "Could you design a better healthcare system?"
+        }
+    ],
+    "dialog_184": [
+        {
+            "text": "How do different cultures define courage?"
+        }
+    ],
+    "dialog_185": [
+        {
+            "text": "What makes a good apology effective?"
+        }
+    ],
+    "dialog_186": [
+        {
+            "text": "When does criticism become bullying?"
+        }
+    ],
+    "dialog_187": [
+        {
+            "text": "Why do certain sounds irritate people?"
+        }
+    ],
+    "dialog_188": [
+        {
+            "text": "How does the brain distinguish reality from dreams?"
+        }
+    ],
+    "dialog_189": [
+        {
+            "text": "If you could create a new emotion, what would it feel like?"
+        }
+    ],
+    "dialog_190": [
+        {
+            "text": "What's the most important question humanity hasn't asked yet?"
+        }
+    ],
+    "dialog_191": [
+        {
+            "text": "Where should we set boundaries for AI creativity?"
+        }
+    ],
+    "dialog_192": [
+        {
+            "text": "When does adaptation become assimilation?"
+        }
+    ],
+    "dialog_193": [
+        {
+            "text": "How would you describe silence to someone who's never experienced it?"
+        }
+    ],
+    "dialog_194": [
+        {
+            "text": "Why do some people fear success?"
+        }
+    ],
+    "dialog_195": [
+        {
+            "text": "Could you design a better justice system?"
+        }
+    ],
+    "dialog_196": [
+        {
+            "text": "What makes a good debate educational?"
+        }
+    ],
+    "dialog_197": [
+        {
+            "text": "How does the brain process sarcasm?"
+        }
+    ],
+    "dialog_198": [
+        {
+            "text": "When does passion become obsession?"
+        }
+    ],
+    "dialog_199": [
+        {
+            "text": "Why do humans create music?"
+        }
+    ],
+    "dialog_200": [
+        {
+            "text": "If you could solve one global problem instantly, which would you choose?"
+        }
+    ]
+}
