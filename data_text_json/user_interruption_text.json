@@ -1,0 +1,2002 @@
+[
+    {
+        "dialog_1": {
+            "context": "Can you give me a detailed explanation of the process of photosynthesis?",
+            "interrupt": "Actually, just give me a simple, one-sentence definition.",
+            "interruption_timestamp": [
+                12.183673469387756,
+                18.844897959183676
+            ]
+        }
+    },
+    {
+        "dialog_2": {
+            "context": "Help me plan a seven-day vacation to Italy, covering Rome, Florence, and Venice.",
+            "interrupt": "Wait, what's the weather like in Rome this time of year?",
+            "interruption_timestamp": [
+                13.185034013605442,
+                20.45578231292517
+            ]
+        }
+    },
+    {
+        "dialog_3": {
+            "context": "List the top 10 best-selling science fiction novels of the 21st century.",
+            "interrupt": "Never mind sci-fi, switch to the best fantasy novels instead.",
+            "interruption_timestamp": [
+                11.965986394557824,
+                18.7578231292517
+            ]
+        }
+    },
+    {
+        "dialog_4": {
+            "context": "I need a healthy recipe for chicken breast that's low in calories.",
+            "interrupt": "Oh, and it also needs to be gluten-free.",
+            "interruption_timestamp": [
+                11.704761904761906,
+                16.885714285714286
+            ]
+        }
+    },
+    {
+        "dialog_5": {
+            "context": "Tell me about the history of the internet, starting from ARPANET.",
+            "interrupt": "Hold on, who is considered the single most important person in its invention?",
+            "interruption_timestamp": [
+                14.970068027210884,
+                21.718367346938777
+            ]
+        }
+    },
+    {
+        "dialog_6": {
+            "context": "What are the main differences between Python and JavaScript for web development?",
+            "interrupt": "You know what, forget web development. Which one is better for data analysis?",
+            "interruption_timestamp": [
+                12.96734693877551,
+                21.02176870748299
+            ]
+        }
+    },
+    {
+        "dialog_7": {
+            "context": "Please draft a professional email to my boss asking for a raise.",
+            "interrupt": "Actually, before you do that, what are some key achievements I should mention?",
+            "interruption_timestamp": [
+                11.4,
+                19.97687074829932
+            ]
+        }
+    },
+    {
+        "dialog_8": {
+            "context": "Explain the concept of black holes in simple terms.",
+            "interrupt": "Sorry to interrupt, but is it theoretically possible to travel through one?",
+            "interruption_timestamp": [
+                10.65986394557823,
+                18.54013605442177
+            ]
+        }
+    },
+    {
+        "dialog_9": {
+            "context": "Give me a workout plan for building muscle at home with just dumbbells.",
+            "interrupt": "Wait, focus only on the upper body for now.",
+            "interruption_timestamp": [
+                12.531972789115645,
+                19.149659863945576
+            ]
+        }
+    },
+    {
+        "dialog_10": {
+            "context": "How do I properly repot a monstera plant?",
+            "interrupt": "Actually, what kind of soil is best for them?",
+            "interruption_timestamp": [
+                11.008163265306123,
+                16.36326530612245
+            ]
+        }
+    },
+    {
+        "dialog_11": {
+            "context": "Tell me a fun fact about the ocean.",
+            "interrupt": "No wait, make it a fun fact about space.",
+            "interruption_timestamp": [
+                9.179591836734694,
+                13.402721088435374
+            ]
+        }
+    },
+    {
+        "dialog_12": {
+            "context": "Summarize the plot of the movie 'Inception'.",
+            "interrupt": "Actually, don't spoil the ending for me.",
+            "interruption_timestamp": [
+                13.141496598639456,
+                17.23401360544218
+            ]
+        }
+    },
+    {
+        "dialog_13": {
+            "context": "What's the capital of Australia?",
+            "interrupt": "Hold on, I think I know... is it Sydney?",
+            "interruption_timestamp": [
+                7.699319727891156,
+                14.360544217687075
+            ]
+        }
+    },
+    {
+        "dialog_14": {
+            "context": "Translate 'Where is the nearest library?' to Spanish.",
+            "interrupt": "And can you also translate it to French?",
+            "interruption_timestamp": [
+                11.487074829931974,
+                16.014965986394557
+            ]
+        }
+    },
+    {
+        "dialog_15": {
+            "context": "Give me some ideas for a 10-year-old's birthday party.",
+            "interrupt": "The party has to be indoors, by the way.",
+            "interruption_timestamp": [
+                9.919727891156462,
+                14.099319727891157
+            ]
+        }
+    },
+    {
+        "dialog_16": {
+            "context": "How does a lithium-ion battery work?",
+            "interrupt": "Forget the details, just tell me how to make them last longer.",
+            "interruption_timestamp": [
+                10.224489795918366,
+                15.666666666666664
+            ]
+        }
+    },
+    {
+        "dialog_17": {
+            "context": "What are the symptoms of the common cold?",
+            "interrupt": "Actually, what's the best way to prevent catching one in the first place?",
+            "interruption_timestamp": [
+                8.787755102040816,
+                15.448979591836734
+            ]
+        }
+    },
+    {
+        "dialog_18": {
+            "context": "Write a short poem about autumn.",
+            "interrupt": "Could you make it a haiku instead?",
+            "interruption_timestamp": [
+                8.482993197278912,
+                12.053061224489795
+            ]
+        }
+    },
+    {
+        "dialog_19": {
+            "context": "Find flights from New York to Los Angeles for next Friday.",
+            "interrupt": "Wait, check for flights from JFK specifically.",
+            "interruption_timestamp": [
+                11.487074829931974,
+                18.888435374149662
+            ]
+        }
+    },
+    {
+        "dialog_20": {
+            "context": "Who was the 16th president of the United States?",
+            "interrupt": "Actually, just tell me who was on the five-dollar bill.",
+            "interruption_timestamp": [
+                11.269387755102041,
+                17.19047619047619
+            ]
+        }
+    },
+    {
+        "dialog_21": {
+            "context": "How do I learn to play the guitar?",
+            "interrupt": "What's the very first chord I should learn?",
+            "interruption_timestamp": [
+                8.831292517006803,
+                13.57687074829932
+            ]
+        }
+    },
+    {
+        "dialog_22": {
+            "context": "Explain the rules of chess.",
+            "interrupt": "Hold on, just explain how the knight moves.",
+            "interruption_timestamp": [
+                8.004081632653062,
+                12.444897959183674
+            ]
+        }
+    },
+    {
+        "dialog_23": {
+            "context": "What are the benefits of meditation?",
+            "interrupt": "Can you recommend a good app for beginners?",
+            "interruption_timestamp": [
+                8.831292517006803,
+                13.489795918367347
+            ]
+        }
+    },
+    {
+        "dialog_24": {
+            "context": "Give me a list of dog breeds that are good for apartment living.",
+            "interrupt": "And they also need to be hypoallergenic.",
+            "interruption_timestamp": [
+                12.270748299319727,
+                16.929251700680272
+            ]
+        }
+    },
+    {
+        "dialog_25": {
+            "context": "What is the Pythagorean theorem?",
+            "interrupt": "Can you give me a real-world example of how it's used?",
+            "interruption_timestamp": [
+                8.178231292517006,
+                13.359183673469389
+            ]
+        }
+    },
+    {
+        "dialog_26": {
+            "context": "How can I improve my public speaking skills?",
+            "interrupt": "What's the best way to deal with stage fright?",
+            "interruption_timestamp": [
+                9.484353741496598,
+                14.360544217687075
+            ]
+        }
+    },
+    {
+        "dialog_27": {
+            "context": "Tell me about the life of Marie Curie.",
+            "interrupt": "Wait, what specific discovery is she most famous for?",
+            "interruption_timestamp": [
+                9.658503401360544,
+                14.534693877551021
+            ]
+        }
+    },
+    {
+        "dialog_28": {
+            "context": "I want to start a vegetable garden. What are the easiest vegetables to grow for a beginner?",
+            "interrupt": "Actually, what can I grow in a small container on my balcony?",
+            "interruption_timestamp": [
+                12.793197278911563,
+                19.84625850340136
+            ]
+        }
+    },
+    {
+        "dialog_29": {
+            "context": "What is the current world population?",
+            "interrupt": "And what is it projected to be in 2050?",
+            "interruption_timestamp": [
+                8.352380952380953,
+                14.534693877551021
+            ]
+        }
+    },
+    {
+        "dialog_30": {
+            "context": "How do I create a strong password?",
+            "interrupt": "Never mind that, can you just generate a secure one for me?",
+            "interruption_timestamp": [
+                8.526530612244898,
+                15.666666666666666
+            ]
+        }
+    },
+    {
+        "dialog_31": {
+            "context": "What was the significance of the Renaissance?",
+            "interrupt": "Focus on its impact on art, specifically.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                14.360544217687075
+            ]
+        }
+    },
+    {
+        "dialog_32": {
+            "context": "Help me brainstorm a name for my new coffee shop.",
+            "interrupt": "It should have a cozy and modern feel.",
+            "interruption_timestamp": [
+                10.398639455782313,
+                14.273469387755101
+            ]
+        }
+    },
+    {
+        "dialog_33": {
+            "context": "What is machine learning?",
+            "interrupt": "Actually, explain it like I'm five.",
+            "interruption_timestamp": [
+                8.918367346938776,
+                13.57687074829932
+            ]
+        }
+    },
+    {
+        "dialog_34": {
+            "context": "Find a good pizza place near me that delivers.",
+            "interrupt": "Hold on, are any of them open right now?",
+            "interruption_timestamp": [
+                10.790476190476191,
+                15.797278911564627
+            ]
+        }
+    },
+    {
+        "dialog_35": {
+            "context": "How does the stock market work?",
+            "interrupt": "What does the term 'bull market' mean?",
+            "interruption_timestamp": [
+                8.308843537414965,
+                14.708843537414966
+            ]
+        }
+    },
+    {
+        "dialog_36": {
+            "context": "What are the seven wonders of the ancient world?",
+            "interrupt": "Wait, which ones are still standing today?",
+            "interruption_timestamp": [
+                9.876190476190477,
+                14.491156462585035
+            ]
+        }
+    },
+    {
+        "dialog_37": {
+            "context": "I'm feeling stressed. Can you suggest some relaxation techniques?",
+            "interrupt": "What's a simple breathing exercise I can do right now?",
+            "interruption_timestamp": [
+                12.793197278911563,
+                17.887074829931972
+            ]
+        }
+    },
+    {
+        "dialog_38": {
+            "context": "Tell me the story of the Trojan War.",
+            "interrupt": "Was the Trojan Horse a real thing?",
+            "interruption_timestamp": [
+                8.787755102040816,
+                12.836734693877549
+            ]
+        }
+    },
+    {
+        "dialog_39": {
+            "context": "How do I tie a tie using a Windsor knot?",
+            "interrupt": "Actually, is there an easier knot for a beginner?",
+            "interruption_timestamp": [
+                10.224489795918366,
+                15.536054421768707
+            ]
+        }
+    },
+    {
+        "dialog_40": {
+            "context": "What are the core principles of Stoicism?",
+            "interrupt": "How can I apply them to my daily life?",
+            "interruption_timestamp": [
+                9.571428571428571,
+                13.794557823129251
+            ]
+        }
+    },
+    {
+        "dialog_41": {
+            "context": "List the planets in our solar system in order.",
+            "interrupt": "Why isn't Pluto considered a planet anymore?",
+            "interruption_timestamp": [
+                9.35374149659864,
+                14.186394557823132
+            ]
+        }
+    },
+    {
+        "dialog_42": {
+            "context": "What's the recipe for a classic margarita?",
+            "interrupt": "What if I don't have Cointreau? Is there a substitute?",
+            "interruption_timestamp": [
+                10.006802721088436,
+                17.451700680272108
+            ]
+        }
+    },
+    {
+        "dialog_43": {
+            "context": "Tell me about the Amazon rainforest.",
+            "interrupt": "Actually, what's the biggest threat it's facing right now?",
+            "interruption_timestamp": [
+                8.700680272108844,
+                13.881632653061224
+            ]
+        }
+    },
+    {
+        "dialog_44": {
+            "context": "How can I save money more effectively?",
+            "interrupt": "Actually, what are some financial goals I should set?",
+            "interruption_timestamp": [
+                8.395918367346939,
+                14.05578231292517
+            ]
+        }
+    },
+    {
+        "dialog_45": {
+            "context": "What is the chemical formula for water?",
+            "interrupt": "Wait, why does ice float on water?",
+            "interruption_timestamp": [
+                7.960544217687074,
+                12.227210884353742
+            ]
+        }
+    },
+    {
+        "dialog_46": {
+            "context": "Can you recommend a good book to read this month?",
+            "interrupt": "I'm in the mood for a mystery thriller.",
+            "interruption_timestamp": [
+                9.571428571428571,
+                13.489795918367346
+            ]
+        }
+    },
+    {
+        "dialog_47": {
+            "context": "How do I start a podcast?",
+            "interrupt": "What's the most essential piece of equipment I need?",
+            "interruption_timestamp": [
+                8.308843537414965,
+                12.48843537414966
+            ]
+        }
+    },
+    {
+        "dialog_48": {
+            "context": "What happened during the Industrial Revolution?",
+            "interrupt": "Focus on the inventions that had the biggest impact.",
+            "interruption_timestamp": [
+                8.74421768707483,
+                13.402721088435374
+            ]
+        }
+    },
+    {
+        "dialog_49": {
+            "context": "Write a thank-you note for a gift I received.",
+            "interrupt": "The gift was a sweater, by the way.",
+            "interruption_timestamp": [
+                10.616326530612245,
+                15.100680272108843
+            ]
+        }
+    },
+    {
+        "dialog_50": {
+            "context": "What is the difference between a virus and a bacteria?",
+            "interrupt": "And why don't antibiotics work on viruses?",
+            "interruption_timestamp": [
+                9.745578231292516,
+                16.1891156462585
+            ]
+        }
+    },
+    {
+        "dialog_51": {
+            "context": "How do I bake sourdough bread from scratch?",
+            "interrupt": "Wait, how do I even make a sourdough starter?",
+            "interruption_timestamp": [
+                10.006802721088436,
+                14.795918367346939
+            ]
+        }
+    },
+    {
+        "dialog_52": {
+            "context": "Tell me about William Shakespeare's life.",
+            "interrupt": "Actually, just list his most famous plays.",
+            "interruption_timestamp": [
+                9.092517006802721,
+                14.360544217687075
+            ]
+        }
+    },
+    {
+        "dialog_53": {
+            "context": "What are the main functions of the human brain?",
+            "interrupt": "Which part of the brain controls memory?",
+            "interruption_timestamp": [
+                9.397278911564626,
+                13.272108843537415
+            ]
+        }
+    },
+    {
+        "dialog_54": {
+            "context": "I'm looking for a new TV series to watch.",
+            "interrupt": "I really liked 'Breaking Bad', so something similar would be great.",
+            "interruption_timestamp": [
+                8.874829931972789,
+                16.45034013605442
+            ]
+        }
+    },
+    {
+        "dialog_55": {
+            "context": "How does GPS work?",
+            "interrupt": "Do I need an internet connection for it to work?",
+            "interruption_timestamp": [
+                8.482993197278912,
+                12.270748299319727
+            ]
+        }
+    },
+    {
+        "dialog_56": {
+            "context": "What are some effective ways to learn a new language?",
+            "interrupt": "What's the best way to practice speaking?",
+            "interruption_timestamp": [
+                9.789115646258503,
+                13.272108843537415
+            ]
+        }
+    },
+    {
+        "dialog_57": {
+            "context": "Can you explain the theory of relativity?",
+            "interrupt": "Actually, just explain E=mc².",
+            "interruption_timestamp": [
+                8.787755102040816,
+                13.141496598639456
+            ]
+        }
+    },
+    {
+        "dialog_58": {
+            "context": "Give me a summary of the American Civil War.",
+            "interrupt": "What was the main cause of the war?",
+            "interruption_timestamp": [
+                9.397278911564626,
+                12.96734693877551
+            ]
+        }
+    },
+    {
+        "dialog_59": {
+            "context": "How do I take a good photograph with my smartphone?",
+            "interrupt": "What's the 'rule of thirds' you hear about?",
+            "interruption_timestamp": [
+                8.961904761904762,
+                17.364625850340136
+            ]
+        }
+    },
+    {
+        "dialog_60": {
+            "context": "What is the role of a Scrum Master in an Agile team?",
+            "interrupt": "How is that different from a Project Manager?",
+            "interruption_timestamp": [
+                10.746938775510204,
+                14.970068027210884
+            ]
+        }
+    },
+    {
+        "dialog_61": {
+            "context": "Tell me about the Great Wall of China.",
+            "interrupt": "Can you actually see it from space?",
+            "interruption_timestamp": [
+                8.787755102040816,
+                13.272108843537413
+            ]
+        }
+    },
+    {
+        "dialog_62": {
+            "context": "How do I choose a good bottle of wine?",
+            "interrupt": "What's a good red wine to pair with steak?",
+            "interruption_timestamp": [
+                9.527891156462585,
+                14.142857142857142
+            ]
+        }
+    },
+    {
+        "dialog_63": {
+            "context": "Explain the concept of supply and demand.",
+            "interrupt": "Can you give me a simple, everyday example?",
+            "interruption_timestamp": [
+                8.831292517006803,
+                12.61904761904762
+            ]
+        }
+    },
+    {
+        "dialog_64": {
+            "context": "What are the five stages of grief?",
+            "interrupt": "Do they always happen in that order?",
+            "interruption_timestamp": [
+                8.352380952380953,
+                11.835374149659865
+            ]
+        }
+    },
+    {
+        "dialog_65": {
+            "context": "How can I be more productive when working from home?",
+            "interrupt": "What's the Pomodoro Technique?",
+            "interruption_timestamp": [
+                10.65986394557823,
+                14.229931972789114
+            ]
+        }
+    },
+    {
+        "dialog_66": {
+            "context": "Tell me about the painter Vincent van Gogh.",
+            "interrupt": "Wait, why did he cut off his ear?",
+            "interruption_timestamp": [
+                9.310204081632653,
+                13.57687074829932
+            ]
+        }
+    },
+    {
+        "dialog_67": {
+            "context": "What is a blockchain and how does it relate to Bitcoin?",
+            "interrupt": "Is it possible to hack a blockchain?",
+            "interruption_timestamp": [
+                11.4,
+                15.187755102040818
+            ]
+        }
+    },
+    {
+        "dialog_68": {
+            "context": "I need to write a resume. What sections should I include?",
+            "interrupt": "Actually, what's the most important section to focus on?",
+            "interruption_timestamp": [
+                9.745578231292516,
+                14.752380952380951
+            ]
+        }
+    },
+    {
+        "dialog_69": {
+            "context": "What are the health benefits of green tea?",
+            "interrupt": "Does it contain caffeine?",
+            "interruption_timestamp": [
+                9.745578231292516,
+                12.22721088435374
+            ]
+        }
+    },
+    {
+        "dialog_70": {
+            "context": "Find me a recipe for chocolate chip cookies.",
+            "interrupt": "Make sure it's one that makes them soft and chewy, not crispy.",
+            "interruption_timestamp": [
+                10.006802721088436,
+                17.146938775510204
+            ]
+        }
+    },
+    {
+        "dialog_71": {
+            "context": "How do I set up a new Wi-Fi router?",
+            "interrupt": "What's the first thing I should do to make it secure?",
+            "interruption_timestamp": [
+                8.961904761904762,
+                13.010884353741496
+            ]
+        }
+    },
+    {
+        "dialog_72": {
+            "context": "Tell me about the Egyptian pyramids.",
+            "interrupt": "How did they build them without modern technology?",
+            "interruption_timestamp": [
+                8.831292517006803,
+                14.099319727891157
+            ]
+        }
+    },
+    {
+        "dialog_73": {
+            "context": "What is daylight saving time and why do we have it?",
+            "interrupt": "Which states in the U.S. don't observe it?",
+            "interruption_timestamp": [
+                10.442176870748298,
+                15.187755102040814
+            ]
+        }
+    },
+    {
+        "dialog_74": {
+            "context": "How do I perform CPR?",
+            "interrupt": "What's the correct rate of chest compressions?",
+            "interruption_timestamp": [
+                8.352380952380953,
+                12.227210884353742
+            ]
+        }
+    },
+    {
+        "dialog_75": {
+            "context": "Explain what a VPN is and why I might need one.",
+            "interrupt": "Will it make my internet connection slower?",
+            "interruption_timestamp": [
+                10.790476190476191,
+                14.970068027210885
+            ]
+        }
+    },
+    {
+        "dialog_76": {
+            "context": "Give me some tips for a successful job interview.",
+            "interrupt": "What's a good question to ask the interviewer at the end?",
+            "interruption_timestamp": [
+                9.35374149659864,
+                14.752380952380953
+            ]
+        }
+    },
+    {
+        "dialog_77": {
+            "context": "How do solar panels generate electricity?",
+            "interrupt": "Do they still work on cloudy days?",
+            "interruption_timestamp": [
+                9.136054421768709,
+                12.880272108843538
+            ]
+        }
+    },
+    {
+        "dialog_78": {
+            "context": "What is the story of the philosopher Socrates?",
+            "interrupt": "What is the 'Socratic method'?",
+            "interruption_timestamp": [
+                9.527891156462585,
+                12.83673469387755
+            ]
+        }
+    },
+    {
+        "dialog_79": {
+            "context": "I'm trying to eat healthier. What are some good snack ideas?",
+            "interrupt": "They need to be things I can easily take to work.",
+            "interruption_timestamp": [
+                10.790476190476191,
+                16.23265306122449
+            ]
+        }
+    },
+    {
+        "dialog_80": {
+            "context": "Tell me about the planet Mars.",
+            "interrupt": "Is there any evidence of water on Mars?",
+            "interruption_timestamp": [
+                8.570068027210883,
+                12.662585034013604
+            ]
+        }
+    },
+    {
+        "dialog_81": {
+            "context": "How can I build a good credit score?",
+            "interrupt": "What's the single most important factor?",
+            "interruption_timestamp": [
+                8.526530612244898,
+                12.444897959183674
+            ]
+        }
+    },
+    {
+        "dialog_82": {
+            "context": "What is the difference between weather and climate?",
+            "interrupt": "Can you give an analogy to explain it?",
+            "interruption_timestamp": [
+                9.266666666666666,
+                13.097959183673469
+            ]
+        }
+    },
+    {
+        "dialog_83": {
+            "context": "I want to start running. How do I begin?",
+            "interrupt": "What's a good running shoe for a beginner?",
+            "interruption_timestamp": [
+                9.658503401360544,
+                13.881632653061224
+            ]
+        }
+    },
+    {
+        "dialog_84": {
+            "context": "Tell me about the Apollo 11 moon landing.",
+            "interrupt": "What were the first words spoken on the moon?",
+            "interruption_timestamp": [
+                10.224489795918366,
+                13.838095238095237
+            ]
+        }
+    },
+    {
+        "dialog_85": {
+            "context": "How does a 3D printer work?",
+            "interrupt": "What kinds of materials can they use?",
+            "interruption_timestamp": [
+                9.092517006802721,
+                13.272108843537415
+            ]
+        }
+    },
+    {
+        "dialog_86": {
+            "context": "What's the best way to clean a cast iron skillet?",
+            "interrupt": "Is it really true that you shouldn't use soap?",
+            "interruption_timestamp": [
+                10.137414965986395,
+                15.492517006802721
+            ]
+        }
+    },
+    {
+        "dialog_87": {
+            "context": "Can you explain what quantum computing is?",
+            "interrupt": "How is it different from a regular computer?",
+            "interruption_timestamp": [
+                9.092517006802721,
+                13.402721088435374
+            ]
+        }
+    },
+    {
+        "dialog_88": {
+            "context": "List the main characters in the novel 'Pride and Prejudice'.",
+            "interrupt": "Just tell me about the protagonist, Elizabeth Bennet.",
+            "interruption_timestamp": [
+                14.317006802721089,
+                19.62857142857143
+            ]
+        }
+    },
+    {
+        "dialog_89": {
+            "context": "What are some common logical fallacies?",
+            "interrupt": "Explain the 'straw man' fallacy with an example.",
+            "interruption_timestamp": [
+                9.048979591836734,
+                14.621768707482993
+            ]
+        }
+    },
+    {
+        "dialog_90": {
+            "context": "How do I compost my kitchen scraps?",
+            "interrupt": "What are some things I should not put in the compost bin?",
+            "interruption_timestamp": [
+                9.745578231292516,
+                16.014965986394557
+            ]
+        }
+    },
+    {
+        "dialog_91": {
+            "context": "Tell me about the structure of the U.S. government.",
+            "interrupt": "Focus on the system of checks and balances.",
+            "interruption_timestamp": [
+                9.789115646258503,
+                14.099319727891157
+            ]
+        }
+    },
+    {
+        "dialog_92": {
+            "context": "How do I change a flat tire on a car?",
+            "interrupt": "Where is the jack usually located in a car?",
+            "interruption_timestamp": [
+                9.571428571428571,
+                13.838095238095239
+            ]
+        }
+    },
+    {
+        "dialog_93": {
+            "context": "What is the ketogenic diet?",
+            "interrupt": "What are some common side effects when you start it?",
+            "interruption_timestamp": [
+                7.568707482993197,
+                12.48843537414966
+            ]
+        }
+    },
+    {
+        "dialog_94": {
+            "context": "Find me a step-by-step guide to origami cranes.",
+            "interrupt": "Actually, find me a video tutorial instead.",
+            "interruption_timestamp": [
+                11.095238095238095,
+                15.84081632653061
+            ]
+        }
+    },
+    {
+        "dialog_95": {
+            "context": "Tell me about the artist Leonardo da Vinci.",
+            "interrupt": "Was he just a painter, or did he do other things?",
+            "interruption_timestamp": [
+                9.527891156462585,
+                15.057142857142857
+            ]
+        }
+    },
+    {
+        "dialog_96": {
+            "context": "What should I do to prepare for a power outage?",
+            "interrupt": "How long does canned food typically last?",
+            "interruption_timestamp": [
+                9.266666666666666,
+                13.185034013605442
+            ]
+        }
+    },
+    {
+        "dialog_97": {
+            "context": "Explain the water cycle to me.",
+            "interrupt": "Use simple terms that a child could understand.",
+            "interruption_timestamp": [
+                8.482993197278912,
+                12.48843537414966
+            ]
+        }
+    },
+    {
+        "dialog_98": {
+            "context": "What are the rules of baseball?",
+            "interrupt": "Actually, just explain what a 'home run' is.",
+            "interruption_timestamp": [
+                8.047619047619047,
+                13.92517006802721
+            ]
+        }
+    },
+    {
+        "dialog_99": {
+            "context": "How can I start investing with just a small amount of money, like $100 a month?",
+            "interrupt": "Actually, before you go into stocks, what is the absolute safest, lowest-risk option available?",
+            "interruption_timestamp": [
+                13.576870748299319,
+                23.11156462585034
+            ]
+        }
+    },
+    {
+        "dialog_100": {
+            "context": "Write a short story about a detective who discovers a portal to another dimension in an old bookstore.",
+            "interrupt": "On second thought, cancel that. Just draft a professional apology email to a client for a delayed shipment.",
+            "interruption_timestamp": [
+                14.05578231292517,
+                24.156462585034014
+            ]
+        }
+    },
+    {
+        "dialog_101": {
+            "context": "Explain how quantum computing works in simple terms.",
+            "interrupt": "Wait, just compare it to classical computing in one sentence.",
+            "interruption_timestamp": [
+                9.440816326530612,
+                14.186394557823128
+            ]
+        }
+    },
+    {
+        "dialog_102": {
+            "context": "What are the main causes of climate change?",
+            "interrupt": "Actually, list only the top three human-related factors.",
+            "interruption_timestamp": [
+                7.960544217687074,
+                12.793197278911563
+            ]
+        }
+    },
+    {
+        "dialog_103": {
+            "context": "Recommend a good documentary about space exploration.",
+            "interrupt": "Never mind documentaries, suggest a sci-fi book instead.",
+            "interruption_timestamp": [
+                9.092517006802721,
+                13.533333333333333
+            ]
+        }
+    },
+    {
+        "dialog_104": {
+            "context": "How do I start learning Python programming?",
+            "interrupt": "Forget Python, guide me on learning JavaScript basics.",
+            "interruption_timestamp": [
+                8.047619047619047,
+                12.83673469387755
+            ]
+        }
+    },
+    {
+        "dialog_105": {
+            "context": "What are the health benefits of green tea?",
+            "interrupt": "Switch to discussing coffee's effects instead.",
+            "interruption_timestamp": [
+                7.960544217687074,
+                11.312925170068027
+            ]
+        }
+    },
+    {
+        "dialog_106": {
+            "context": "Describe the Renaissance art movement.",
+            "interrupt": "Narrow it down to Leonardo da Vinci's contributions.",
+            "interruption_timestamp": [
+                7.699319727891156,
+                11.835374149659863
+            ]
+        }
+    },
+    {
+        "dialog_107": {
+            "context": "List common symptoms of seasonal allergies.",
+            "interrupt": "Actually, tell me about treatment options.",
+            "interruption_timestamp": [
+                8.657142857142857,
+                12.053061224489795
+            ]
+        }
+    },
+    {
+        "dialog_108": {
+            "context": "Explain the theory of evolution by natural selection.",
+            "interrupt": "Make it a two-sentence summary for a child.",
+            "interruption_timestamp": [
+                9.440816326530612,
+                12.575510204081633
+            ]
+        }
+    },
+    {
+        "dialog_109": {
+            "context": "Suggest five romantic restaurants in Tokyo.",
+            "interrupt": "Cancel that, I need budget-friendly sushi places.",
+            "interruption_timestamp": [
+                8.570068027210883,
+                12.836734693877549
+            ]
+        }
+    },
+    {
+        "dialog_110": {
+            "context": "How does photosynthesis differ from cellular respiration?",
+            "interrupt": "Focus only on the energy conversion aspect.",
+            "interruption_timestamp": [
+                9.397278911564626,
+                12.836734693877553
+            ]
+        }
+    },
+    {
+        "dialog_111": {
+            "context": "What are the key features of Gothic architecture?",
+            "interrupt": "Compare it to Baroque architecture instead.",
+            "interruption_timestamp": [
+                8.308843537414965,
+                11.53061224489796
+            ]
+        }
+    },
+    {
+        "dialog_112": {
+            "context": "Recommend workout routines for beginners.",
+            "interrupt": "Forget routines, list essential gym equipment.",
+            "interruption_timestamp": [
+                8.178231292517006,
+                12.00952380952381
+            ]
+        }
+    },
+    {
+        "dialog_113": {
+            "context": "Explain the economic impact of renewable energy.",
+            "interrupt": "Shift focus to employment opportunities in solar power.",
+            "interruption_timestamp": [
+                8.874829931972789,
+                13.751020408163265
+            ]
+        }
+    },
+    {
+        "dialog_114": {
+            "context": "Describe the water cycle processes.",
+            "interrupt": "Simplify to a diagram explanation for students.",
+            "interruption_timestamp": [
+                7.9170068027210885,
+                12.00952380952381
+            ]
+        }
+    },
+    {
+        "dialog_115": {
+            "context": "List famous female scientists in history.",
+            "interrupt": "Exclude modern scientists, focus on pre-20th century.",
+            "interruption_timestamp": [
+                8.439455782312926,
+                13.22857142857143
+            ]
+        }
+    },
+    {
+        "dialog_116": {
+            "context": "How to create a basic budget plan?",
+            "interrupt": "Actually, explain zero-based budgeting method.",
+            "interruption_timestamp": [
+                7.829931972789115,
+                11.269387755102041
+            ]
+        }
+    },
+    {
+        "dialog_117": {
+            "context": "Recommend family-friendly movies from the 90s.",
+            "interrupt": "Switch to animated films of the 2000s.",
+            "interruption_timestamp": [
+                9.614965986394559,
+                13.359183673469389
+            ]
+        }
+    },
+    {
+        "dialog_118": {
+            "context": "Explain the role of neurotransmitters in the brain.",
+            "interrupt": "Focus specifically on serotonin and dopamine.",
+            "interruption_timestamp": [
+                8.700680272108844,
+                12.3578231292517
+            ]
+        }
+    },
+    {
+        "dialog_119": {
+            "context": "What are the best hiking trails in Switzerland?",
+            "interrupt": "Cancel hiking, suggest Swiss chocolate tours.",
+            "interruption_timestamp": [
+                8.178231292517006,
+                12.3578231292517
+            ]
+        }
+    },
+    {
+        "dialog_120": {
+            "context": "Describe the structure of a typical bacterial cell.",
+            "interrupt": "Compare it to an animal cell structure.",
+            "interruption_timestamp": [
+                8.570068027210883,
+                11.487074829931972
+            ]
+        }
+    },
+    {
+        "dialog_121": {
+            "context": "How to train for a marathon as a beginner?",
+            "interrupt": "Forget marathons, advice for 5K race preparation.",
+            "interruption_timestamp": [
+                7.9170068027210885,
+                12.444897959183674
+            ]
+        }
+    },
+    {
+        "dialog_122": {
+            "context": "List the Seven Wonders of the Ancient World.",
+            "interrupt": "Actually, name modern architectural wonders.",
+            "interruption_timestamp": [
+                8.482993197278912,
+                12.096598639455783
+            ]
+        }
+    },
+    {
+        "dialog_123": {
+            "context": "Explain the concept of blockchain technology.",
+            "interrupt": "Simplify using a banking transaction analogy.",
+            "interruption_timestamp": [
+                8.61360544217687,
+                12.401360544217688
+            ]
+        }
+    },
+    {
+        "dialog_124": {
+            "context": "Recommend podcasts about true crime.",
+            "interrupt": "Switch to historical documentary podcasts.",
+            "interruption_timestamp": [
+                7.960544217687074,
+                11.574149659863945
+            ]
+        }
+    },
+    {
+        "dialog_125": {
+            "context": "What are the stages of mitosis?",
+            "interrupt": "Describe only prophase and telophase details.",
+            "interruption_timestamp": [
+                7.742857142857143,
+                12.00952380952381
+            ]
+        }
+    },
+    {
+        "dialog_126": {
+            "context": "How to grow tomatoes in a home garden?",
+            "interrupt": "Forget tomatoes, explain growing chili peppers.",
+            "interruption_timestamp": [
+                7.873469387755102,
+                11.661224489795918
+            ]
+        }
+    },
+    {
+        "dialog_127": {
+            "context": "Describe the cultural impact of Shakespeare's plays.",
+            "interrupt": "Focus on modern film adaptations instead.",
+            "interruption_timestamp": [
+                8.918367346938776,
+                12.575510204081633
+            ]
+        }
+    },
+    {
+        "dialog_128": {
+            "context": "Explain the principles of supply and demand.",
+            "interrupt": "Use the smartphone market as an example.",
+            "interruption_timestamp": [
+                8.395918367346939,
+                11.704761904761904
+            ]
+        }
+    },
+    {
+        "dialog_129": {
+            "context": "List common car maintenance tasks.",
+            "interrupt": "Focus specifically on winter preparation checks.",
+            "interruption_timestamp": [
+                8.178231292517006,
+                11.87891156462585
+            ]
+        }
+    },
+    {
+        "dialog_130": {
+            "context": "How to write a compelling cover letter?",
+            "interrupt": "Forget cover letters, guide on resume formatting.",
+            "interruption_timestamp": [
+                7.568707482993197,
+                11.225850340136054
+            ]
+        }
+    },
+    {
+        "dialog_131": {
+            "context": "Recommend travel destinations for solo travelers.",
+            "interrupt": "Suggest options under $50/day budget.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                13.010884353741496
+            ]
+        }
+    },
+    {
+        "dialog_132": {
+            "context": "Explain the differences between Type 1 and Type 2 diabetes.",
+            "interrupt": "Focus only on treatment approaches comparison.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                12.575510204081631
+            ]
+        }
+    },
+    {
+        "dialog_133": {
+            "context": "Describe the process of making wine.",
+            "interrupt": "Shift to beer brewing techniques instead.",
+            "interruption_timestamp": [
+                8.004081632653062,
+                11.356462585034015
+            ]
+        }
+    },
+    {
+        "dialog_134": {
+            "context": "What are effective time management strategies?",
+            "interrupt": "Explain the Pomodoro Technique specifically.",
+            "interruption_timestamp": [
+                8.221768707482994,
+                11.791836734693877
+            ]
+        }
+    },
+    {
+        "dialog_135": {
+            "context": "List famous battles in European history.",
+            "interrupt": "Exclude world wars, focus on medieval battles.",
+            "interruption_timestamp": [
+                8.26530612244898,
+                12.140136054421768
+            ]
+        }
+    },
+    {
+        "dialog_136": {
+            "context": "How to properly care for indoor houseplants?",
+            "interrupt": "Focus only on watering frequency guidelines.",
+            "interruption_timestamp": [
+                8.221768707482994,
+                11.965986394557824
+            ]
+        }
+    },
+    {
+        "dialog_137": {
+            "context": "Recommend online courses for digital marketing.",
+            "interrupt": "Switch to free resources for learning SEO.",
+            "interruption_timestamp": [
+                8.526530612244898,
+                12.531972789115645
+            ]
+        }
+    },
+    {
+        "dialog_138": {
+            "context": "Explain the concept of artificial intelligence ethics.",
+            "interrupt": "Focus specifically on privacy concerns.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                12.227210884353742
+            ]
+        }
+    },
+    {
+        "dialog_139": {
+            "context": "What are the benefits of bilingual education?",
+            "interrupt": "Discuss challenges instead of benefits.",
+            "interruption_timestamp": [
+                8.61360544217687,
+                11.574149659863945
+            ]
+        }
+    },
+    {
+        "dialog_140": {
+            "context": "Describe the formation of hurricanes.",
+            "interrupt": "Compare to tornado formation process.",
+            "interruption_timestamp": [
+                7.873469387755102,
+                11.095238095238095
+            ]
+        }
+    },
+    {
+        "dialog_141": {
+            "context": "List the most influential video games of all time.",
+            "interrupt": "Switch to mobile games that changed the industry.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                12.531972789115645
+            ]
+        }
+    },
+    {
+        "dialog_142": {
+            "context": "How to perform basic car tire changing?",
+            "interrupt": "Explain using a jack safely instead.",
+            "interruption_timestamp": [
+                8.004081632653062,
+                11.095238095238095
+            ]
+        }
+    },
+    {
+        "dialog_143": {
+            "context": "Explain the greenhouse effect and its consequences.",
+            "interrupt": "Focus only on agricultural impacts.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                12.183673469387754
+            ]
+        }
+    },
+    {
+        "dialog_144": {
+            "context": "Recommend classical music pieces for studying.",
+            "interrupt": "Suggest lofi hip-hop tracks instead.",
+            "interruption_timestamp": [
+                8.395918367346939,
+                11.835374149659863
+            ]
+        }
+    },
+    {
+        "dialog_145": {
+            "context": "Describe the human digestive system organs.",
+            "interrupt": "Focus specifically on stomach acid functions.",
+            "interruption_timestamp": [
+                8.74421768707483,
+                12.444897959183674
+            ]
+        }
+    },
+    {
+        "dialog_146": {
+            "context": "What are the key elements of a successful negotiation?",
+            "interrupt": "Explain BATNA concept in detail.",
+            "interruption_timestamp": [
+                8.874829931972789,
+                12.96734693877551
+            ]
+        }
+    },
+    {
+        "dialog_147": {
+            "context": "List common cybersecurity threats today.",
+            "interrupt": "Focus only on phishing attack methods.",
+            "interruption_timestamp": [
+                7.9170068027210885,
+                11.269387755102041
+            ]
+        }
+    },
+    {
+        "dialog_148": {
+            "context": "How to start a meditation practice for stress relief?",
+            "interrupt": "Forget meditation, suggest physical stress-relief methods.",
+            "interruption_timestamp": [
+                8.439455782312926,
+                13.054421768707485
+            ]
+        }
+    },
+    {
+        "dialog_149": {
+            "context": "Recommend budget travel destinations in Europe.",
+            "interrupt": "Suggest luxury options in the same region.",
+            "interruption_timestamp": [
+                8.352380952380953,
+                11.835374149659865
+            ]
+        }
+    },
+    {
+        "dialog_150": {
+            "context": "Explain the physics behind rainbow formation.",
+            "interrupt": "Use a prism experiment analogy.",
+            "interruption_timestamp": [
+                8.570068027210883,
+                11.356462585034013
+            ]
+        }
+    },
+    {
+        "dialog_151": {
+            "context": "List the major works of Ernest Hemingway.",
+            "interrupt": "Compare his style to F. Scott Fitzgerald's.",
+            "interruption_timestamp": [
+                8.308843537414965,
+                12.053061224489795
+            ]
+        }
+    },
+    {
+        "dialog_152": {
+            "context": "How to create strong passwords for online accounts?",
+            "interrupt": "Explain password manager tools instead.",
+            "interruption_timestamp": [
+                8.74421768707483,
+                12.096598639455783
+            ]
+        }
+    },
+    {
+        "dialog_153": {
+            "context": "Describe the process of making chocolate from cocoa beans.",
+            "interrupt": "Focus only on the conching stage details.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                12.401360544217686
+            ]
+        }
+    },
+    {
+        "dialog_154": {
+            "context": "What are the benefits of regular exercise?",
+            "interrupt": "Discuss over-exercising risks instead.",
+            "interruption_timestamp": [
+                8.178231292517006,
+                11.87891156462585
+            ]
+        }
+    },
+    {
+        "dialog_155": {
+            "context": "Recommend good TED Talks about education reform.",
+            "interrupt": "Suggest talks on technology in classrooms instead.",
+            "interruption_timestamp": [
+                9.440816326530612,
+                13.489795918367346
+            ]
+        }
+    },
+    {
+        "dialog_156": {
+            "context": "Explain the differences between hurricanes and typhoons.",
+            "interrupt": "Focus on measurement and categorization methods.",
+            "interruption_timestamp": [
+                9.397278911564626,
+                13.185034013605442
+            ]
+        }
+    },
+    {
+        "dialog_157": {
+            "context": "List the top museums to visit in New York City.",
+            "interrupt": "Suggest outdoor attractions instead.",
+            "interruption_timestamp": [
+                8.526530612244898,
+                11.487074829931972
+            ]
+        }
+    },
+    {
+        "dialog_158": {
+            "context": "How to write effective product descriptions for e-commerce?",
+            "interrupt": "Focus specifically on SEO optimization techniques.",
+            "interruption_timestamp": [
+                8.831292517006803,
+                13.185034013605442
+            ]
+        }
+    },
+    {
+        "dialog_159": {
+            "context": "Describe the structure and functions of the United Nations.",
+            "interrupt": "Focus only on the Security Council's role.",
+            "interruption_timestamp": [
+                9.005442176870748,
+                12.3578231292517
+            ]
+        }
+    },
+    {
+        "dialog_160": {
+            "context": "What are the main causes of World War I?",
+            "interrupt": "Explain the Treaty of Versailles impact.",
+            "interruption_timestamp": [
+                8.004081632653062,
+                11.008163265306123
+            ]
+        }
+    },
+    {
+        "dialog_161": {
+            "context": "Recommend good fantasy book series for adults.",
+            "interrupt": "Switch to young adult fantasy recommendations.",
+            "interruption_timestamp": [
+                8.831292517006803,
+                12.444897959183674
+            ]
+        }
+    },
+    {
+        "dialog_162": {
+            "context": "Explain the process of photosynthesis in algae.",
+            "interrupt": "Compare to photosynthesis in desert plants.",
+            "interruption_timestamp": [
+                8.787755102040816,
+                12.444897959183672
+            ]
+        }
+    },
+    {
+        "dialog_163": {
+            "context": "List the most important inventions of the 20th century.",
+            "interrupt": "Focus only on medical advancements.",
+            "interruption_timestamp": [
+                9.092517006802721,
+                12.314285714285713
+            ]
+        }
+    },
+    {
+        "dialog_164": {
+            "context": "How to properly stretch before a workout?",
+            "interrupt": "Explain dynamic vs static stretching differences.",
+            "interruption_timestamp": [
+                8.091156462585033,
+                12.140136054421767
+            ]
+        }
+    },
+    {
+        "dialog_165": {
+            "context": "Describe the cultural significance of Japanese tea ceremonies.",
+            "interrupt": "Focus on the preparation process instead.",
+            "interruption_timestamp": [
+                9.70204081632653,
+                12.83673469387755
+            ]
+        }
+    },
+    {
+        "dialog_166": {
+            "context": "What are effective strategies for conflict resolution?",
+            "interrupt": "Explain Thomas-Kilmann Conflict Mode Instrument.",
+            "interruption_timestamp": [
+                8.918367346938776,
+                12.706122448979592
+            ]
+        }
+    },
+    {
+        "dialog_167": {
+            "context": "Recommend good horror movies from the 80s.",
+            "interrupt": "Suggest psychological thrillers instead.",
+            "interruption_timestamp": [
+                8.74421768707483,
+                12.183673469387756
+            ]
+        }
+    },
+    {
+        "dialog_168": {
+            "context": "Explain the economic concept of inflation.",
+            "interrupt": "Use current 2023 inflation rates as examples.",
+            "interruption_timestamp": [
+                8.439455782312926,
+                13.663945578231292
+            ]
+        }
+    },
+    {
+        "dialog_169": {
+            "context": "List the key events of the American Civil Rights Movement.",
+            "interrupt": "Focus specifically on Martin Luther King Jr.'s role.",
+            "interruption_timestamp": [
+                8.831292517006803,
+                13.185034013605442
+            ]
+        }
+    },
+    {
+        "dialog_170": {
+            "context": "How to create a successful YouTube channel?",
+            "interrupt": "Explain monetization strategies specifically.",
+            "interruption_timestamp": [
+                8.13469387755102,
+                11.835374149659865
+            ]
+        }
+    },
+    {
+        "dialog_171": {
+            "context": "Describe the architecture of ancient Greek temples.",
+            "interrupt": "Compare to Roman architectural styles.",
+            "interruption_timestamp": [
+                8.874829931972789,
+                11.965986394557824
+            ]
+        }
+    },
+    {
+        "dialog_172": {
+            "context": "What are the health benefits of intermittent fasting?",
+            "interrupt": "Discuss potential risks instead.",
+            "interruption_timestamp": [
+                8.352380952380953,
+                10.92108843537415
+            ]
+        }
+    },
+    {
+        "dialog_173": {
+            "context": "Recommend good podcasts about philosophy.",
+            "interrupt": "Suggest ones focused on practical life advice.",
+            "interruption_timestamp": [
+                8.13469387755102,
+                11.835374149659865
+            ]
+        }
+    },
+    {
+        "dialog_174": {
+            "context": "Explain the process of cloud formation.",
+            "interrupt": "Focus specifically on cumulus cloud development.",
+            "interruption_timestamp": [
+                8.091156462585033,
+                11.965986394557822
+            ]
+        }
+    },
+    {
+        "dialog_175": {
+            "context": "List the major exports of Germany.",
+            "interrupt": "Compare to France's main exports instead.",
+            "interruption_timestamp": [
+                7.9170068027210885,
+                11.008163265306123
+            ]
+        }
+    },
+    {
+        "dialog_176": {
+            "context": "How to train a puppy basic commands?",
+            "interrupt": "Focus specifically on housebreaking techniques.",
+            "interruption_timestamp": [
+                7.9170068027210885,
+                11.356462585034013
+            ]
+        }
+    },
+    {
+        "dialog_177": {
+            "context": "Describe the impact of social media on mental health.",
+            "interrupt": "Focus only on adolescent users.",
+            "interruption_timestamp": [
+                8.961904761904762,
+                11.87891156462585
+            ]
+        }
+    },
+    {
+        "dialog_178": {
+            "context": "Recommend good historical fiction books set in WW2.",
+            "interrupt": "Suggest ones from a German civilian perspective.",
+            "interruption_timestamp": [
+                10.006802721088436,
+                13.57687074829932
+            ]
+        }
+    },
+    {
+        "dialog_179": {
+            "context": "Explain the differences between Crohn's disease and colitis.",
+            "interrupt": "Focus on treatment options comparison.",
+            "interruption_timestamp": [
+                9.658503401360544,
+                12.83673469387755
+            ]
+        }
+    },
+    {
+        "dialog_180": {
+            "context": "List common interview questions for management positions.",
+            "interrupt": "Focus only on behavioral questions.",
+            "interruption_timestamp": [
+                9.310204081632653,
+                12.3578231292517
+            ]
+        }
+    },
+    {
+        "dialog_181": {
+            "context": "How to start a small business from home?",
+            "interrupt": "Explain legal registration process specifically.",
+            "interruption_timestamp": [
+                7.829931972789115,
+                11.53061224489796
+            ]
+        }
+    },
+    {
+        "dialog_182": {
+            "context": "Describe the ecosystem of a coral reef.",
+            "interrupt": "Focus specifically on clownfish habitat.",
+            "interruption_timestamp": [
+                8.091156462585033,
+                11.53061224489796
+            ]
+        }
+    },
+    {
+        "dialog_183": {
+            "context": "What are the main differences between Sunni and Shia Islam?",
+            "interrupt": "Explain historical split origins.",
+            "interruption_timestamp": [
+                9.048979591836734,
+                12.270748299319727
+            ]
+        }
+    },
+    {
+        "dialog_184": {
+            "context": "Recommend good hiking boots for rocky terrain.",
+            "interrupt": "Suggest budget options under $100.",
+            "interruption_timestamp": [
+                8.395918367346939,
+                12.270748299319727
+            ]
+        }
+    },
+    {
+        "dialog_185": {
+            "context": "Explain the concept of dark matter in astronomy.",
+            "interrupt": "Use a simple space analogy for explanation.",
+            "interruption_timestamp": [
+                9.310204081632653,
+                13.054421768707483
+            ]
+        }
+    },
+    {
+        "dialog_186": {
+            "context": "List the major achievements of Isaac Newton.",
+            "interrupt": "Compare to Albert Einstein's contributions.",
+            "interruption_timestamp": [
+                8.395918367346939,
+                11.574149659863945
+            ]
+        }
+    },
+    {
+        "dialog_187": {
+            "context": "How to properly care for a newborn baby?",
+            "interrupt": "Focus only on feeding schedules.",
+            "interruption_timestamp": [
+                8.178231292517006,
+                11.269387755102041
+            ]
+        }
+    },
+    {
+        "dialog_188": {
+            "context": "Describe the process of brewing coffee using a French press.",
+            "interrupt": "Explain cold brew coffee making instead.",
+            "interruption_timestamp": [
+                9.179591836734694,
+                12.749659863945578
+            ]
+        }
+    },
+    {
+        "dialog_189": {
+            "context": "What are the key principles of interior design?",
+            "interrupt": "Focus specifically on Feng Shui techniques.",
+            "interruption_timestamp": [
+                8.439455782312926,
+                11.835374149659865
+            ]
+        }
+    },
+    {
+        "dialog_190": {
+            "context": "Recommend good travel destinations for hiking in Asia.",
+            "interrupt": "Suggest options with elevation under 1000 meters.",
+            "interruption_timestamp": [
+                8.831292517006803,
+                13.09795918367347
+            ]
+        }
+    },
+    {
+        "dialog_191": {
+            "context": "Explain the economic impact of the Industrial Revolution.",
+            "interrupt": "Focus specifically on child labor changes.",
+            "interruption_timestamp": [
+                9.22312925170068,
+                12.923809523809524
+            ]
+        }
+    },
+    {
+        "dialog_192": {
+            "context": "List common signs of burnout in the workplace.",
+            "interrupt": "Explain prevention strategies instead.",
+            "interruption_timestamp": [
+                8.395918367346939,
+                11.312925170068027
+            ]
+        }
+    },
+    {
+        "dialog_193": {
+            "context": "How to create engaging content for social media?",
+            "interrupt": "Focus specifically on Instagram Reels strategies.",
+            "interruption_timestamp": [
+                8.831292517006803,
+                12.793197278911565
+            ]
+        }
+    },
+    {
+        "dialog_194": {
+            "context": "Describe the anatomy of a bee.",
+            "interrupt": "Compare to wasp anatomy differences.",
+            "interruption_timestamp": [
+                7.612244897959183,
+                10.79047619047619
+            ]
+        }
+    },
+    {
+        "dialog_195": {
+            "context": "What are the main themes in modern art?",
+            "interrupt": "Focus specifically on abstract expressionism.",
+            "interruption_timestamp": [
+                8.091156462585033,
+                11.704761904761904
+            ]
+        }
+    },
+    {
+        "dialog_196": {
+            "context": "Recommend good mountain bike trails in Colorado.",
+            "interrupt": "Suggest family-friendly options only.",
+            "interruption_timestamp": [
+                8.961904761904762,
+                12.227210884353742
+            ]
+        }
+    },
+    {
+        "dialog_197": {
+            "context": "Explain the process of DNA replication.",
+            "interrupt": "Focus specifically on the role of helicase enzyme.",
+            "interruption_timestamp": [
+                9.179591836734694,
+                13.054421768707483
+            ]
+        }
+    },
+    {
+        "dialog_198": {
+            "context": "List the most influential philosophers in history.",
+            "interrupt": "Focus only on 20th-century thinkers.",
+            "interruption_timestamp": [
+                8.61360544217687,
+                11.965986394557824
+            ]
+        }
+    },
+    {
+        "dialog_199": {
+            "context": "How to start a meditation practice for beginners?",
+            "interrupt": "Explain mindfulness vs transcendental meditation differences.",
+            "interruption_timestamp": [
+                8.395918367346939,
+                13.663945578231292
+            ]
+        }
+    },
+    {
+        "dialog_200": {
+            "context": "Describe the history of the Olympic Games.",
+            "interrupt": "Focus specifically on modern era developments.",
+            "interruption_timestamp": [
+                8.13469387755102,
+                12.053061224489795
+            ]
+        }
+    }
+]
