@@ -1,0 +1,11 @@
+numpy
+scipy
+torch
+torchaudio
+tqdm
+soundfile
+silero-vad
+openai
+pyaudio
+google-genai
+nemo_toolkit[asr]
