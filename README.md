@@ -70,6 +70,13 @@ Requires specifying the model turn-taking latency:
 
 (5) model_backchannel
 
+Before running this script, first generate the model-predicted distributions using the script:
+
+
+    python ./tools/get_AI_ground_truth/get_gt_gpt.py --root_dir your/model/backchannel/audio/root/dir --api_key YOUR_API_KEY --model_name gpt-4-turbo --output_path your/output/path/ai_gt_distribution.json
+
+Then run the evaluate script
+
     python ./evaluate/eval_turntaking.py --root_dir your/model/backchannel/audio/root/dir
 
 (6) model_interrupt
