@@ -7,6 +7,8 @@ FLEXI: BENCHMARKING FULL-DUPLEX HUMAN-LLM SPEECH INTERACTION
     <img src="https://img.shields.io/badge/GitHub-Code-blue?logo=github" alt="Github Code"></a>
     <a href="https://huggingface.co/datasets/qibai/FLEXI" target="_blank">
     <img src="https://img.shields.io/badge/🤗 Dataset-FLEXI-yellow" alt="_blank"></a>
+    <a href="https://arxiv.org/abs/2509.22243" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2509.22243-red?logo=arxiv" alt="arXiv Paper"></a>
 </div>
 
 <p align="center">
@@ -88,3 +90,15 @@ Then run the evaluate script
 Replace your/.../root/dir with the actual directory containing audio output.wav from inference.
 
 For pause-handling, make sure to set the correct --latency value corresponding to your model.
+
+### 📖 Citation:
+
+If you find this work helpful, please consider citing:
+```bibtex
+@article{ge2025flexi,
+  title={FLEXI: Benchmarking Full-duplex Human-LLM Speech Interaction},
+  author={Ge, Yuan and Chen, Saihan and Xiao, Jingqi and Liu, Xiaoqian and Xiao, Tong and Xiang, Yan and Yu, Zhengtao and Zhu, Jingbo},
+  journal={arXiv preprint arXiv:2509.22243},
+  year={2025}
+}
+```
